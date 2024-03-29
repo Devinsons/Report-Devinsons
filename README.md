@@ -6,7 +6,7 @@
 
 ##### Nombre del curso: Desarrollo de Aplicaciones Open Source
 ##### Carrera: Ingeniería de Software
-##### Nombre del profesor: Angel Augusto Velasquez Nuñez
+##### Nombre del profesor: Hugo Allan Mori Paiva
 ##### Sección: SV51
 
 #### " Informe de Trabajo Final "
