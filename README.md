@@ -7,7 +7,7 @@
 ##### Nombre del curso: Desarrollo de Aplicaciones Open Source
 ##### Carrera: Ingeniería de Software
 ##### Nombre del profesor: Hugo Allan Mori Paiva
-##### Sección: SV51
+##### Sección: SV54
 
 #### " Informe de Trabajo Final "
 ##### Nombre de la Startup: Devinsons
