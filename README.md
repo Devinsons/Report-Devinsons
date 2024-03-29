@@ -4,7 +4,7 @@
 
 ![logo](./assets/img/logo/logo-upc.png)
 
-##### Nombre del curso: Aplicaciones Web
+##### Nombre del curso: Desarrollo de Aplicaciones Open Source
 ##### Carrera: Ingeniería de Software
 ##### Nombre del profesor: Angel Augusto Velasquez Nuñez
 ##### Sección: SV51
