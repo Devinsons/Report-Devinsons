@@ -1,7 +1,10 @@
 # Chapter I : Introducción
 ---
 ## 1.1. Startup Profile
+Somos Devinsons, un grupo de estudiantes de las carreras de Ingeniería de Software y Ciencias de la Computación de la  Universidad Peruana de Ciencias Aplicadas (UPC). Nuestro propósito es revolucionar el acceso a la gastronomía mediante la implementación de tecnologías de vanguardia. A través de nuestra innovadora aplicación, ofrecemos a los usuarios la posibilidad de explorar una diversidad de menús seleccionados, accesibles mediante un exclusivo plan de suscripción.
 
+- Misión: Facilitar encuentros culinarios únicos y a la medida, vinculando negocios y establecimientos gastronómicos mediante nuestra plataforma digital.
+- Visión: Aspiramos a transformarnos en la plataforma líder de suscripciones de almuerzos a nivel mundial, redefiniendo la manera en que empresas y restaurantes colaboran para brindar alternativas culinarias de alta calidad y accesibilidad.
 ### 1.1.1. Descripción de la Startup
 
 
