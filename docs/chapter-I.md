@@ -129,3 +129,8 @@ Una adecuada alimentación durante el almuerzo contribuye significativamente al 
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo.
+Este proyecto se desarrollara tomando en cuenta a dos segmentos objetivos.
+
+- Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.
+
+- Empresas que necesiten del servicio de los restaurantes para proveer diferentes opciones de comida a sus colaboradores.
