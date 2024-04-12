@@ -130,8 +130,14 @@
         </tbody>
     </table>
 </body>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
+* Para que nuestra startup pueda sobresalir en el mercado de comidas personalizadas para empresas, es crucial que podamos enfocarnos en la diferenciación del producto mediante un sistema avanzado de personalización y una amplia variedad de opciones de menú de calidad. 
+
+* Nuestra plataforma tambien serviria como un medio donde se pueda hacer marketing de los restaurantes ques son mejor valoradas por las empreas.
+
+* La aplicacion tendria un apartado especial para los restaurantes afiliados, donde podrian ver estadisticas y metricas clave de su negocio, esto para que puedan tomar decisiones informadas.
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
