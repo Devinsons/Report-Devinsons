@@ -193,6 +193,68 @@
 
 ### 2.2.2. Registro de entrevistas.
 
+**Entrevista 1:  Luis Dario Cutiri Chinchay**
+
+![Business-Segment-Interview-1](/assets/img/chapter-II/Business-Segment-Interview-1.jpg)
+
+**Datos del Entrevistado:**
+
+* **Nombre:** Luis Dario Cutiri Chinchay
+* **Edad:** 54
+* **Ocupación:** Empresario en el sector de Metal Mecánica
+* **Ubicación de la Empresa:** Parque Industrial - Villa El Salvador
+
+
+**Resumen de la Entrevista:**
+
+<p style="text-align:justify;">El entrevistado nos menciona que tiene 8 empleados en su empresa, y la forma en la que brinda el almuerzo a sus empleados es mediante un convenio que tiene con un restaurante cercano. Asimismo, considera que el beneficio que le trae brindar almuerzo a los empleados es que aprovechan mejor su tiempo de descanso y rinden más en el trabajo. Asimismo, nos indica que el proceso de petición de almuerzo se realiza cuando el restaurante le envía la relación de opciones del menú del día, para que luego consulte con los empleados que plato van a escoger, enviar la relación del pedido y posteriormente esperar a que llegue el almuerzo al local, como máximo 5 minutos antes de la hora del descanso de los trabajadores.</p>
+
+<p style="text-align:justify;">El entrevistado también menciona que gasta S/13 por menú, lo cual considera un gasto regular, pero está dispuesto a cubrirlo, ya que mejora el rendimiento de sus empleados. También, nos indicó que lo que prioriza al momento de escoger almuerzos para los empleados es que el restaurante ofrezca comidas balanceadas, ya que observa que muchos restaurantes ofrecen comida frita, lo cual perjudicaría la salud de sus empleados. Asimismo, menciona que tuvo inconvenientes con el restaurante, ya que pese a enviar la relación de su pedido, le entregaron almuerzos que no había solicitado, lo cual ponía descontentos a los trabajadores, por no recibir el almuerzo escogido, reduciendo su ritmo de trabajo.</p>
+
+<p style="text-align:justify;">Finalmente, el entrevistado nos indica que estaría dispuesto a realizar sus pedidos por una aplicación que le ofreciera descuento en sus pedidos, siempre y cuando se ofrezcan menús de calidad, con comida balanceada y que no presente inconvenientes con la entrega, como los tuvo con el restaurante que tiene convenio.</p>
+
+**Entrevista 2:  Raquel Agüero Sulca**
+
+![Business-Segment-Interview-2](/assets/img/chapter-II/Business-Segment-Interview-2.jpg)
+
+**Datos del Entrevistado:**
+
+* **Nombre:** Raquel Agüero Sulca
+* **Edad:** 51
+* **Ocupación:** Administradora de un Taller de Confecciones
+* **Ubicación de la Empresa:** Chorrillos
+
+**Resumen de la Entrevista:**
+
+<p style="text-align:justify;">La entrevistada menciona que tiene 7 empleados a su cargo y que brinda almuerzo a sus empleados mediante un restaurante que tienen a disposición cerca a su establecimiento. Asimismo, menciona que el beneficio que obtiene para sus empleados es el ahorro de tiempo, ya que no requieren buscar un restaurante para almorzar, aprovechando de esta forma su hora de descanso. También, nos indica que el proceso que realiza para solicitar almuerzo a sus trabajadores es comunicarse con el restaurante para obtener la lista del menú del día, para luego escoger los platos que solicitan los empleados y esperar que llegue el pedido al local.</p>
+
+<p style="text-align:justify;">En cuanto al gasto del almuerzo de los empleados, la entrevistada menciona que cada menú está costando S/13. Esto lo considera una inversión, ya que aunque sea un gasto adicional para la empresa, los empleados muestran mayor disposición para trabajar y aumenta su productividad, debido a que aprovechan mejor su descanso y se encuentran más saludables por la comida fresca que obtienen. Además, lo que prioriza al momento de solicitar almuerzos para los empleados, es que el restaurante brinde alimentos saludables y que no ofrezcan muchas frituras. La entrevistada también nos menciona que por el momento no tuvo ningún inconveniente con el restaurante donde solicita el almuerzo de los empleados.</p>
+
+<p style="text-align:justify;">Finalmente, la entrevistada nos indica que estaría feliz de realizar sus pedidos en una aplicación donde obtuviera descuentos en su pedido.</p>
+
+**Entrevista 3:  Paola Selene Lastres Hernández**
+
+![Business-Segment-Interview-3](/assets/img/chapter-II/Business-Segment-Interview-3.jpg)
+
+**Datos del Entrevistado:**
+
+* **Nombre:** Paola Selene Lastres Hernández
+* **Edad:** 37
+* **Ocupación:** Administradora de una empresa importadora
+* **Ubicación de la Empresa:** Chorrillos - Guardia Civil
+
+
+**Resumen de la Entrevista:**
+
+<p style="text-align:justify;">La entrevistada menciona que en total son 8 personas que trabajan en la empresa incluyendo a ella, también indica que en la zona hay 2 restaurantes cercanos los cuales son sus alternativas para brindar almuerzo a los empleados. Asimismo, indica que los almuerzos permiten a los empleados tener más tiempo para descansar, lo cual se ve reflejado en un mayor desempeño, y que además de eso evita exponerlos a situaciones peligrosas, como robos o accidentes por buscar un restaurante donde comer.</p>
+
+<p style="text-align:justify;">En cuanto al proceso del pedido de almuerzos, la entrevistada menciona que recibe las opciones del menú por WhatsApp diariamente, luego esto lo comparte en el grupo que tiene con los empleados, para que puedan escoger lo que desean comer y finalmente trasladan el pedido al restaurante. Además, menciona que cada menú le está costando S/12 y lo considera un gasto necesario por el desempeño que genera en sus empleados durante el trabajo.</p>
+
+<p style="text-align:justify;">La entrevistada también menciona que al momento de realizar el pedido de los almuerzos, prioriza que sean saludables, es por esto que tiene como alternativas 2 restaurantes cercanos, ya que si en caso uno ofrece un menú con frituras, opta por el segundo restaurante. De igual forma, nos indica que los almuerzos generan un mejor ambiente laboral, ya que permite a los empleados usar su tiempo de descanso para interactuar entre ellos y conocerse mejor.</p>
+
+<p style="text-align:justify;">Por último, la entrevistada menciona que presentaba algunos inconvenientes, como la confusión del pedido, pero se resolvía fácilmente, ya que los restaurantes estaban cerca de la empresa. Además, la entrevistada nos indicó que estaría dispuesta a realizar sus pedidos con descuentos por una aplicación, pero tendría que analizar que sea segura, ya que escucho de aplicaciones como Rappi, donde se pierden los pedidos o que nunca llegan.</p>
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
