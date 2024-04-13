@@ -53,3 +53,6 @@
 ## 4.8. Database Design.
 
 ## 4.8.1. Database Diagram.
+![database-diagram](/assets/img/chapter-IV/database-diagram-fastbite.png)
+
+**Link del diagrama en Vertabelo:**  [Ver este enlace](https://my.vertabelo.com/public-model-view/X6j4QYoZ4DVeJRBLYz5yORiwSh84oJ2mZyCudAcbpnwJ386s3xdeVvLKJGZyDsL7?x=1042&y=2674&zoom=0.70)
