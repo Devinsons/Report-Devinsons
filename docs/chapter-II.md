@@ -257,6 +257,26 @@
 
 ### 2.2.3. Análisis de entrevistas.
 
+**Segmento Objetivo:** Administradores de empresas que brindan almuerzo a sus empleados
+
+De las entrevistas realizadas a este segmento se obtuvo los siguientes resultados:
+
+* El 100% brinda almuerzo a sus empleados mediante un restaurante cercano a la zona donde se encuentra su empresa.
+
+* El 100% brinda almuerzo a sus empleados, ya que esto mejora su desempeño en el trabajo
+
+* En cuanto al costo de almuerzo de los empleados, el 66,6% nos indicó que gasta S/ 13 por empleado, mientras que el 33,3% nos indicó que gasta S/12 por empleado.
+
+* El 100% de los entrevistados nos indicaron el mismo proceso para solicitar su pedido en el restaurante, el cual consiste en comunicarse con el restaurante, solicitar el menú del día, consultar con los empleados lo que desean comer, solicitar el pedido, recibir el pedido en el local y realizar el pago del pedido.
+
+* El 100% de los entrevistados prioriza que el restaurante ofrezca almuerzos balanceados, libres de frituras para que no afecte el desempeño y la salud de los trabajadores
+
+* El 100%  de los entrevistados considera que brindar almuerzo a los empleados mejora el ambiente laboral, ya que les permite aprovechar su tiempo de descanso e interactuar más entre ellos.
+
+* El 66,6% de los entrevistados indicaron que presentaron problemas con el restaurante por la confusión de su pedido, mientras que el 33,3% no tuvieron ningún inconveniente con su respectivo restaurante.
+
+* El 100% de los entrevistados están dispuestos a realizar sus pedidos por una aplicación que brinda descuentos siempre y cuando no presenten problemas en la atención y entrega del pedido.
+
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
