@@ -48,6 +48,70 @@ Para ello, se organizará la información considerando el tipo de actividades re
 * **Markdown:** Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización. Puedes aprender Markdown mediante [este enlace](https://markdown.es/sintaxis-markdown/).
 
 ### 5.1.2. Source Code Management.
+
+En esta sección se detalla qué medios se utilizaron para el seguimiento de las modificaciones, así como la semántica y nomenclatura que se usará para los commits y releases que se implementarán durante el avance del proyecto.
+
+Antes que nada, hay que mencionar que se utilizará GitHub como sistema de control de versiones del informe, landing page, web service y frontend de nuestro proyecto. Para ello se crearon sus respectivos repositorios:
+
+* Url de la organización: [github.com/Devinsons](https://github.com/Devinsons)
+* Repositorio Landing page: [github.com/Devinsons/FastBite-LandingPage](https://github.com/Devinsons/FastBite-LandingPage)
+
+**GitFlow:**
+
+Git Flow es un modelo de trabajo el cual consta de ramas principales y ramas de apoyo. Decidimos utilizar este modelo ya que nos permite mantener el código de nuestro proyecto limpio y ordenado al dividirlo en ramas, de tal forma que nos facilita trabajar colaborativamente. Además, lo que hace eficiente a GitFlow es que presenta una gran variedad de ramas, las cuales son:
+
+* **Ramas Principales:**
+    * **Main:** Esta es la rama principal desde donde se ramifican todas las demás. Además, contiene el código fuente que está listo para producción y cada cambio que se realice en esta se consideraría como una nueva versión del proyecto
+    * **Develop:** Esta rama surge a partir de la rama Main y se utiliza para integrar las funcionalidades trabajadas en las ramas posteriores. Aquí se acopla todo el código que está listo para pasar a la rama Main y crear una nueva versión (Release) de nuestro proyecto.
+
+* **Ramas de Apoyo:**
+
+    * **Feature:** Estas son ramas creadas a partir Develop y se crean tantas como funcionalidades presenta nuestro proyecto. Una vez se termina de trabajar en estas ramas, deben fusionarse con la rama Develop para posteriormente ser eliminada. La nomenclatura que se utiliza es la siguiente:
+
+            feature/benefits
+            feature/profile
+            feature/memberships
+
+    * **Release:** Estas son ramas creadas a partir de Develop y sirven para preparar una nueva versión de nuestro proyecto que está listo para publicar. Cabe destacar que, en caso se requiera agregar nuevas funcionalidades, se tendrá que crear otra rama Release siguiendo las normas del Semantic Versioning 2.0.0, la cual se explicará más adelante.
+
+    * **Hotfix:** Estas ramas son creadas a partir del Main y sirven para corregir rápidamente los errores que se presentan en el código publicado en esa rama (Main). Cabe destacar que una vez corregido el error, las ramas Hotfix deben fusionarse con las ramas Main y Develop.
+
+
+**Semantic Versioning**
+
+Este es un conjunto de reglas que nos permitirán gestionar correctamente la numeración de versiones de nuestro proyecto, para ello lo implementaremos en las ramas Release siguiendo el formato X.Y.Z (Major, Minor, Patch)
+
+* **Versión de Parche (Z):** Se incrementa solo si se implementan correcciones compatibles con versiones anteriores.
+
+* **Versión Secundaria (Y):** Se incrementa cuando se agregan nuevas funcionalidades que son compatibles con versiones anteriores.
+
+* **Versión Principal (X):** Se incrementa cuando los cambios agregados no son compatibles con las versiones anteriores. Cabe destacar que al incrementar este parámetro, la enumeración de los parámetros Y y Z se inicializan en 0.
+
+        release-1.0.5
+        release-2.1.3
+        release-2.2.1
+
+**Conventional Commits**
+
+Este es un conjunto de reglas, las cuales deben seguir nuestros commits para crear un historial explícito de los cambios realizados en el proyecto, haciéndolo más sencillo de comprender para el equipo de desarrollo. Los conventional commits siguen la siguiente estructura: 
+
+    <type> [opcional scope]: <description>
+    [optional body]
+    [optional footer]
+
+* **type:** Dependiendo del cambio que se realicen en el proyecto, los commits pueden ser:
+    * **feat:** Cuando se agrega una nueva funcionalidad (feature)
+    * **docs:** Cuando se realizan cambios en la documentación del proyecto
+    * **fix:** Cuando se corrige un error en el código
+    * **chore**: Cuando se realizan cambios que no afectan al código
+    * **refactor:** Cuando se realizan cambios es la estructura del código, sin afectar al comportamiento del proyecto
+    * **build**: Cuando se realizan cambios en los componentes del proyecto, como dependencias externas.
+    * **perf:** Cuando se realizan cambio que mejoran el rendimiento del proyecto
+* **scope:** Este es un campo opcional, que nos permite especificar el alcance que tiene el commit.
+* **description:** Este es un campo obligatorio, ya que proporciona información breve y concisa de los cambios que se han realizado. Además debe ser escrito en minúsculas y de modo imperativo
+* **body:** Este es un campo opcional en el cual se detalla más información sobre el commit, como el motivo del cambio. 
+* **footer:** Este es un campo opcion y se utiliza para informar respecto a cambios importantes en el proyecto
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
