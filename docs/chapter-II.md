@@ -288,6 +288,64 @@ De las entrevistas realizadas a este segmento se obtuvo los siguientes resultado
 
 ### 2.3.2. User Task Matrix.
 
+#### Segmento Objetivo: Empresas que brindan almuerzo a sus empleados
+
+Indicadores de importancia:
+
+| ALTA | BAJA | MEDIA |
+|------|------|-------|      
+
+Indicadores de frecuencia:
+
+| SIEMPRE | RARA VEZ | NUNCA |
+|---------|----------|-------|    
+
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Francisco Mendoza - Empresas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Buscar un buen restaurante cercano a su empresa</td>
+            <td>A veces</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Consultar la relación de opciones del menú del restaurante</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>   
+        <tr>
+            <td>Realizar pedido de los menús solicitados por los empleados</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Realizar pago del pedido solicitado</td>
+            <td>Siempre</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Recibir el pedido en el local en el tiempo estimado</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Comprobar que no haya ningún problema con el pedido</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>        
+    </tbody>
+</table>  
+
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
