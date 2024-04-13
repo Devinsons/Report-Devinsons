@@ -124,6 +124,21 @@ Una adecuada alimentación durante el almuerzo contribuye significativamente al 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+1. Nuestro entorno revela que muchos empleados de distintas empresas no reciben almuerzo de su lugar de trabajo. Esto debido a que no es obligatorio para las empresas brindar este servicio a sus empleados.
+Hemos observado que la ausencia de este servicio resulta en empleados buscando un buen restaurante para comer o preparando su propio almuerzo en casa, lo cual podría agotarlos y estresarlos, reduciendo de esta forma su productividad y eficiencia en el trabajo.
+
+    **¿Cómo podriamos motivar a las empresas en brindar servicio de almuerzo a sus empleados?**
+
+
+2. Nuestro entorno revela que muchos restaurantes que ofrecen menús presentan dificultades para gestionar eficientemente la información que manejan y recolectan de su negocio. Estos pueden ser: horarios y cargos de trabajadores, control de inventario, costo de insumos, etc.
+Hemos observado que la mala gestión de esta información puede traer consecuencias como: reducción de la productividad, merma de insumos, falta de insumos para los menús, etc. 
+
+    **¿Cómo podríamos ayudar a los restaurantes que ofrecen menús a gestionar y recolectar eficientemente la información de su negocio?**
+
+3. Nuestro entorno revela que los restaurantes que ofrecen menús buscan resaltar su servicio frente a la competencia. Esto lo logran mejorando la presentación y  sabor de la comida, brindando mejor servicio de atención, etc.
+Hemos observado que los restaurantes que ofrecen menús no suelen invertir en publicidad, por lo que sus servicios no resaltan de la competencia y no pueden ampliar su alcance a nuevos clientes
+
+    **¿Cómo podríamos apoyar a los restaurantes que ofrecen menús a diferenciarse de la competencia y ampliar su alcance a nuevos clientes?**
 
 #### 1.2.2.2. Lean UX Assumptions
 #### Users:
