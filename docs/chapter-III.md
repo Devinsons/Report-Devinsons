@@ -6,6 +6,10 @@
 
 ![To-be-business](/assets/img/chapter-III/To-be-map-business-segment.jpg)
 
+**Segmento objetivo:** El administrador del restaurante tiene que gestionar y analizar la rentabilidad del negocio.
+
+![To-be-restaurante](../assets/img/chapter-III/To-be-map-restaurantes.jpg)
+
 ## 3.2. User Stories.
 
 ## 3.3. Impact Mapping.
