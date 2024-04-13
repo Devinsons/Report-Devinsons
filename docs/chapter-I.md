@@ -141,9 +141,73 @@ Hemos observado que los restaurantes que ofrecen menús no suelen invertir en pu
     **¿Cómo podríamos apoyar a los restaurantes que ofrecen menús a diferenciarse de la competencia y ampliar su alcance a nuevos clientes?**
 
 #### 1.2.2.2. Lean UX Assumptions
-#### Users:
 
-#### Assumptions:
+**Users:**
+
+* Empresas de distintos sectores laborales ubicados en Lima Metropolitana que buscan brindar servicios de almuerzo a sus empleados
+
+* Restaurantes que ofrecen servicio de almuerzo, que requieran publicitar sus servicios y necesitan una forma de administrar mejor su negocio
+
+**User Outcomes**
+
+* **Empresas**
+
+    * Creemos que nuestros usuarios del sector empresas necesitan conocer buenos restaurantes para solicitar pedidos de almuerzo para sus trabajadores y evitar problemas con la comida
+
+    * Creemos que nuestro segmento objetivo de empresas necesitan servicio de delivery para sus pedidos, ya que evitan que los empleados pierdan su tiempo de descanso trasladándose al restaurante
+ 
+* **Restaurantes:** 
+
+    * Creemos que nuestros usuarios del sector restaurante necesitan publicitarse en una plataforma para llegar a más clientes
+
+    * Creemos que nuestro segmento objetivo de restaurantes necesita una forma más sencilla de administrar su negocio.
+
+
+**Business:**
+
+* Creemos que las necesidades de nuestros usuarios del sector empresas se pueden satisfacer con una aplicación que ofrezca el servicio de almuerzo de distintos restaurantes cercanos, presentando principalmente a los restaurantes mejor calificados
+
+* Creemos que las necesidades de nuestros usuarios del sector restaurante se pueden satisfacer mediante una aplicación donde puedan ofrecer sus servicios y que los ayude a gestionar su negocio
+
+* Creemos que los beneficios que ofrece nuestro producto al sector de empresas, es la localización sencilla de buenos restaurantes y el descuento en el precio de los almuerzos mediante una suscripción mensual
+
+* Creemos que los beneficios que ofrece nuestro producto al sector de restaurantes, es aumentar el alcance de su negocio a nuevos clientes, ser reconocidos en la aplicación por la calidad de su servicio y administrar eficientemente su negocio
+
+**Business Outcomes:**
+
+* Creemos que la mejor estrategia para ganar dinero con nuestro producto será mediante un plan de suscripción por los beneficios que ofrece, tanto para el sector de empresas como el de restaurantes
+
+* Creemos que una buena estrategia para adquirir a la mayoría de nuestros clientes sería promocionar nuestro producto mediante el despliegue de una Landing Page que describa los beneficios que ofrecemos al segmento objetivo.
+
+* Creemos que nuestra competencia principal son aplicaciones que ofrecen servicio de almuerzo como Manzana Verde, KnowEats, etc
+
+**Feature:**
+
+* **Empresas:**
+
+    * Visualizar restaurantes cercanos a su ubicación, mostrando principalmente los mejor calificados
+
+    * Visualizar el perfil de los restaurantes, así como la calificación que tiene y los comentarios de los clientes
+
+    * Visualizar las listas de menús que ofrecen los restaurantes
+
+    * Generar su pedido para los empleados de la empresa, detallando hora de entrega
+
+    * Notificación de pedido en camino y tiempo estimado de llegada
+
+    * Opción de calificar y comentar su experiencia con el restaurante
+    
+* **Restaurantes:**
+
+    * Gestión de inventario
+
+    * Notificación para nuevos pedidos y nivel bajo de stock de inventario
+
+    * Dashboard con ingresos generados mensualmente, promedio diario de pedidos, etc.
+
+    * Actualización de la lista de opciones del menú diario
+
+    * Recibir calificación y comentarios de los clientes
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
