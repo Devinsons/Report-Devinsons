@@ -351,6 +351,12 @@ Indicadores de frecuencia:
 ### 2.3.4. Empathy Mapping.
 
 ### 2.3.5. As-is Scenario Mapping.
+
+**Segmento de Objetivo:** Administrador de la empresa que brinda almuerzo a sus empleados
+
+![As-is-business](/assets/img/chapter-II/As-is-map-business-segment.jpg)
+
+
 **Segmento de Objetivo:** Administrador del restaurante tiene que gestionar y analizar la rentabilidad del negocio.
 
 ![As-is](../assets/img/chapter-II/As-is-map-resturantes.jpg)
