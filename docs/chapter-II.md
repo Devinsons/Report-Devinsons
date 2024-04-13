@@ -361,4 +361,15 @@ Indicadores de frecuencia:
 
 ![As-is](../assets/img/chapter-II/As-is-map-resturantes.jpg)
 
-## 2.4. Ubiquitous Language.
+## 2.4. Ubiquitous Language
+
+**Segmento Objetivo:** Administradores de empresas que brindan almuerzo a sus empleados
+
+
+* **Order relationship** (*Relación del pedido*): Hace referencia a la lista de platos, entradas y bebidas, con sus respectivas cantidades, que la empresa ha solicitado al restaurante
+
+
+* **Inconvenience** (*Inconveniente*): Hace referencia a algún tipo de problema que se presente el restaurante durante el proceso de atención de su pedido, ya sea confusión del pedido, entrega tardía, etc.
+
+
+* **Menu list** (*Lista del menú*): Hace referencia a los platos, entradas y bebidas que ofrece el restaurante durante ese día.
