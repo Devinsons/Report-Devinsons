@@ -8,7 +8,7 @@ Somos Devinsons, un grupo de estudiantes de las carreras de Ingeniería de Softw
 - Visión: Aspiramos a transformarnos en la plataforma líder de suscripciones de almuerzos a nivel mundial, redefiniendo la manera en que empresas y restaurantes colaboran para brindar alternativas culinarias de alta calidad y accesibilidad.
 ### 1.1.1. Descripción de la Startup
 
-FastBite, nuestra plataforma web especializada en suscripciones de almuerzos empresariales, propone planes ajustables a la dimensión de cada organización. Facilitamos la personalización de menús por parte de los usuarios y ofrecemos a los restaurantes la oportunidad de expandir su operatividad comercial. Dotada de herramientas como filtros específicos, opciones de búsqueda avanzada y notificaciones personalizadas, Easy Food garantiza una experiencia culinaria integral y sin complicaciones.
+Devisions, nuestra innovadora startup, ha desarrollado FastBite, una plataforma web especializada en suscripciones de almuerzos empresariales. FastBite ofrece planes ajustables a la dimensión de cada organización, permitiendo la personalización de menús por parte de los usuarios y brindando a los restaurantes la oportunidad de ampliar su alcance comercial. Equipada con herramientas como filtros específicos, opciones de búsqueda avanzada y notificaciones personalizadas, FastBite garantiza una experiencia culinaria integral y sin complicaciones.
 ### 1.1.2. Perfiles de integrantes del equipo
 |Integrante|Descripción|Conocimiento|
 |-----------|--------|---------|
