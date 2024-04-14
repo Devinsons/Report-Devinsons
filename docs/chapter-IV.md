@@ -149,11 +149,19 @@ Este sistema de etiquetado se enfoca en categorizar y clasificar los elementos d
 
 Búsqueda de Restaurantes:
 
-Esta función permite a los usuarios buscar rápidamente restaurantes cercanos y de confianza. Los usuarios pueden especificar la ubicación por distrito para encontrar restaurantes en esa área específica. Además, tienen la opción de ordenar la lista de acuerdo a los filtros seleccionados
+Esta función permite a los usuarios buscar rápidamente restaurantes cercanos y de confianza. Los usuarios podran visualizar los restaurantes con mejores calificaciones primero. Además, tienen la opción de ordenar la lista de acuerdo a los filtros seleccionados
 
-![img.png](../assets/img/chapter-IV/searchingsystems.png)
+![img.png](../assets/img/chapter-IV/searchingsystem.png)
 
 ## 4.2.5. Navigation Systems.
+
+En el navigation system ayudaremos al usuario navegar libremente en nuestra web con diversas interfaces diseñadas:
+
+Navegacion: Acceso a las opciones de la web
+
+Estos botones se encuentran en el lado izquierdo de la pantalla para que el usuario pueda visualizar y utilizar las diversas opciones que se desarrollaron.
+
+![img.png](../assets/img/chapter-IV/Nav1.png)
 
 ## 4.3. Landing Page UI Design.
 
