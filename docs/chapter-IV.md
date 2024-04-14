@@ -58,8 +58,22 @@ En esta sección se mostrará la landing page haciendo uso de la tipografía, co
 ## 4.7. Software Object-Oriented Design.
 
 ## 4.7.1. Class Diagrams.
+![class-diagram](../assets/img/chapter-IV/lowercase.drawio.png)
 
 ## 4.7.2. Class Dictionary.
+En esta seccion se exlicara las clases que usamos en el diagrama.
+ **User:** representa a nuestros 2 usuarios: Restaurantes y empresas.
+ **SuscriptionType:** define los tipos de suscripciones que tenemos.
+ **Restaurant:** se implementan las funcionalidades que tendria el restaurante, logica de las funciones que tendria el restaurante
+ **Company:** se define las funcionalidades de realizar pedios.
+ **StatisticsManager:** logica de las estadisticas que se usaran el el front-end
+ **InventoryControl:** se manejara el controll de inventario como actualizacion y agregacion de los productos
+ **OrderManager:** recivira las pedidos y notificara los cambios de estado de ellos.
+ **MenuCatalog:** La logica de actualizacion del menu del catalogo
+ **Menu:** Se listara los productos que tengas en el menu
+ **Product:** definicion de los atributos de un producto
+ **Order:** Logica de orden, como el tiempo del delivery y el registro de la orden.
+ **Paymant:** logica de las transacciones financieras
 
 ## 4.8. Database Design.
 
