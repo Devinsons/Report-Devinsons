@@ -451,7 +451,27 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+En el Sprint 1 solo se elaboro un sitio web estatico.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, asegurando una experiencia visual impecable. Además, hemos aplicado un diseño atractivo que destaca los diversos elementos para capturar la atención del usuario. Asimismo, hemos integrado métodos de navegación, como botones estratégicamente ubicados al principio y al final de la página, facilitando la transición entre secciones. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page.
+
+![navbar](../assets/img/chapter-V/navbar-fastbite.png)
+*Version mobile*: Navegador version mobile
+![navbar-mobile](../assets/img/chapter-V/navbar-mobile.png)
+*Hero* : Banner que contendra un boton (Call to Action) que te llevara a registrarte a nuestra aplicación.
+![hero](../assets/img/chapter-V/hero.png)
+*funcionality*: Seccion donde explicara a los visitantes de la lading page, como es que funciona nuestra aplicacion, a traves de imagenes.
+![funcionality](../assets/img/chapter-V/funcionality.png)
+*benefits*: Seccion donde explica los beneficios que podrias tener al ser un usuario.
+![benefits](../assets/img/chapter-V/benefits.png)
+*Planes*: seccion donde se explica las opciones de planes de suscription que tenemos, junto al precio y detalles del plan.
+![planes](../assets/img/chapter-V/planes.png)
+*Nosotros*: description de la startup y los desarrolladores de la aplicación
+![nostros](../assets/img/chapter-V/nosotros.png)
+*footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
+![footer](../assets/img/chapter-V/footer.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
