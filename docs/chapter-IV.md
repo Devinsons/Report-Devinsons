@@ -144,7 +144,19 @@ Este sistema organizacional simplificado refleja las principales áreas funciona
 Este sistema de etiquetado se enfoca en categorizar y clasificar los elementos dentro de FastBite para facilitar la navegación y búsqueda de los usuarios, mejorando así la experiencia general de uso de la aplicación.
 
 ## 4.2.3. SEO Tags and Meta Tags
+***Landing Page:***
 
+**Title:** Devinsons - Descubre FastBite: La Plataforma para Pedidos Corporativos
+**Description:** Devinsons es la plataforma líder en pedidos corporativos para empresas. Con FastBite, simplificamos el proceso de pedidos de almuerzos para tus empleados. ¡Descubre cómo mejorar la experiencia de alimentación de tu equipo hoy mismo!
+**Keywords:** Devinsons, FastBite, pedidos corporativos, plataforma de pedidos, almuerzos para empresas, comida corporativa, pedidos de almuerzo, alimentación de empleados
+**Author:** Devinsons Team
+
+***Página de la Aplicación Web (FastBite):***
+
+**Title:** FastBite - Plataforma de Pedidos Corporativos
+**Description:** Bienvenido a FastBite, la plataforma de pedidos corporativos que simplifica la forma en que las empresas gestionan los almuerzos de sus empleados. Encuentra menús diarios, realiza pedidos y gestiona tus opciones de alimentación con facilidad.
+**Keywords:** FastBite, plataforma de pedidos corporativos, pedidos de almuerzo para empresas, menús diarios, gestión de alimentación corporativa
+**Author:** Devinsons Team
 ## 4.2.4. Searching Systems.
 
 Búsqueda de Restaurantes:
