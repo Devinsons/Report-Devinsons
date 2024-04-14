@@ -64,6 +64,39 @@ Vamos a desarrollar un sitio web responsive que se ajuste automáticamente a cua
 
 ## 4.2.1. Organization Systems.
 
+Sistema Organizacional de FastBite
+1. Desarrollo de Producto
+
+- Equipo de Desarrollo
+- Equipo de Pruebas
+
+2. Diseño y Experiencia de Usuario (UX/UI)
+
+- Equipo de Diseño
+
+3. Marketing y Comunicaciones
+
+- Equipo de Marketing
+- Equipo de Redes Sociales
+
+4. Operaciones y Logística
+
+- Equipo de Entrega
+- Equipo de Atención al Cliente
+
+5. Finanzas y Administración
+
+- Equipo Financiero
+- Equipo de Recursos Humanos
+
+6. Equipo Ejecutivo
+
+- CEO y Directores
+- Gerentes de Departamento
+
+Este sistema organizacional simplificado refleja las principales áreas funcionales de FastBite y cómo están estructuradas para garantizar una operación eficiente y efectiva.
+
+
 ## 4.2.2. Labeling Systems.
 
 ## 4.2.3. SEO Tags and Meta Tags
