@@ -212,6 +212,15 @@ Hemos observado que los restaurantes que ofrecen menús no suelen invertir en pu
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+##### Hypothesis Statement A
+Creemos que, si brindamos facilidades para que las empresas den almuerzos a sus empleados, entonces la productividad de la empresa subirá junto a los estados de ánimo de sus empleados.
+ 
+##### Hypothesis Statement B
+Creemos que, si utilizamos un Dashboard para las analíticas de gestión de información de los restaurantes, entonces podremos brindar información precisa e importante para el usuario a cargo de la administración del restaurante.
+ 
+##### Hypothesis Statement C
+Creemos que, si utilizamos un mapa para mostrar los restaurantes afiliados a la aplicación que se encuentren cerca de las empresas y así, hacer más eficiente el proceso para buscar los restaurantes, entonces generamos una buena impresión y posteriormente percibir más suscripciones por parte de las empresas.
+
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo.
