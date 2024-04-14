@@ -290,6 +290,20 @@
 
 <p style="text-align:justify;">Finalmente nos comento que aceptaria recibir un pedido grande por parte de una empresa, pero que este debe ser agendado con una o dos semanas de anticipacion para la compra de los insumos y previas preparaciones que se deben tener en una preparacion tan grande como esta.</p>=
 
+**Entrevista 6**
+![Restaurant-Segment-Interview-3](/assets/img/chapter-II/Restaurant-Segment-Interview-3.png)
+
+**Datos del Entrevistado:**
+
+**Nombre:** Marin Walter Cuevas Perales
+**Edad:** 24
+**Ocupación:** Estudiante
+**Ubicación de la Empresa:** Provincia en la sierra
+
+**Resumen de la Entrevista:**
+<p style="text-align:justify">En la entrevista realizada a Marín, que anteriormente ayudaba en el negocio de restaurante familiar, nos menciona que llegaba a obtener un promedio de 40 clientes, teniendo como meta llegar a 60 clientes. El negocio no hacía delivery, pero aun así se solía vender casi todo, sobrando menos de 5 raciones de todos los platillos. Para crear su menú lo que tomaba en cuenta era principalmente el costo de los ingredientes y la calidad del producto. También nos menciona que el proceso de recepción de un pedido era anotado en un post-it que se llevaba a la cocina y se preparaba. No usaban ningún software para el control de inventario ni el control de asistencia de los empleados. Con respecto a la publicidad, ya que el negocio se encontraba en un pueblo no muy grande en la sierra, a lo mucho hacía anuncios en la radio. Por último, menciona que sí podrían satisfacer la demanda de platillos para una empresa siempre y cuando se sepa la cantidad que se requiere preparar para hacerlo con anticipación.</p>
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento Objetivo:** Administradores de empresas que brindan almuerzo a sus empleados
