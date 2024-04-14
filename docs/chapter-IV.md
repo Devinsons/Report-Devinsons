@@ -56,6 +56,10 @@ En FastBite, utilizamos un tono amigable y cercano, comunicando de manera clara 
 
 ## 4.1.2. Web Style Guidelines.
 
+Vamos a desarrollar un sitio web responsive que se ajuste automáticamente a cualquier dispositivo para garantizar una experiencia de usuario sin interrupciones, manteniendo la claridad y estética visual en todas las resoluciones comunes utilizadas en dispositivos actuales, asegurando así una adaptabilidad óptima en todo momento.
+
+![img.png](../assets/img/chapter-IV/responsive.png)
+
 ## 4.2. Information Architecture.
 
 ## 4.2.1. Organization Systems.
