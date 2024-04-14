@@ -96,8 +96,52 @@ Sistema Organizacional de FastBite
 
 Este sistema organizacional simplificado refleja las principales áreas funcionales de FastBite y cómo están estructuradas para garantizar una operación eficiente y efectiva.
 
-
 ## 4.2.2. Labeling Systems.
+
+1. Etiquetas de Categoría de Comida:
+
+- Desayuno
+- Almuerzo
+- Cena
+- Snacks
+
+2. Etiquetas de Preferencias Dietéticas:
+
+- Vegetariano
+- Vegano
+- Sin Gluten
+- Bajo en Carbohidratos
+
+3. Etiquetas de Popularidad:
+
+- Más Vendido
+- Nuevos Platos
+- Ofertas Especiales 
+- Recomendado
+
+4. Etiquetas de Estado del Pedido:
+
+- Pendiente
+- En Preparación
+- En Camino
+- Entregado
+
+5. Etiquetas de Valoración:
+
+- 5 Estrellas
+- 4 Estrellas
+- 3 Estrellas
+- 2 Estrellas
+- 1 Estrella
+
+6. Etiquetas de Temporada:
+
+- Verano 
+- Otoño
+- Invierno
+- Primavera
+   
+Este sistema de etiquetado se enfoca en categorizar y clasificar los elementos dentro de FastBite para facilitar la navegación y búsqueda de los usuarios, mejorando así la experiencia general de uso de la aplicación.
 
 ## 4.2.3. SEO Tags and Meta Tags
 
