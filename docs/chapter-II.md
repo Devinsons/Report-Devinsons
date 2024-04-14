@@ -469,3 +469,19 @@ Indicadores de frecuencia:
 
 
 * **Menu list** (*Lista del menú*): Hace referencia a los platos, entradas y bebidas que ofrece el restaurante durante ese día.
+
+* **Segmento Objetivo:** Jefes de cocina de restaurantes que preparan y envían almuerzos a empresas.
+
+* **Order relationship (*Relación del pedido*):** Se refiere a la secuencia detallada de platos, entradas, bebidas y postres solicitados por una empresa, incluyendo las cantidades específicas y cualquier instrucción especial (como alergias o preferencias dietéticas) que necesitan ser observadas en la preparación.
+
+* **Inconvenience (*Inconveniente*):** Hace referencia a cualquier tipo de problema que el restaurante enfrente durante la preparación o entrega de un pedido, lo cual incluye errores en la composición del pedido, demoras en la entrega, o quejas de los clientes sobre la calidad o temperatura de la comida.
+
+* **Menu list (*Lista del menú)*:** Denota el conjunto de opciones alimenticias disponibles ofrecidas por el restaurante en un día específico, que pueden ser seleccionadas por las empresas para sus pedidos. Esta lista incluye descripciones detalladas de cada plato, información sobre alérgenos, y opciones personalizables.
+
+* **Batch Cooking (*Cocina por Lotes*):** Técnica utilizada por el chef para preparar grandes cantidades de comida de manera eficiente, asegurando la consistencia y calidad del producto final. Especialmente relevante cuando se manejan varios pedidos empresariales simultáneos.
+
+* **Meal Pack (*Paquete de Comida*):** Refiere al empaque individual de las porciones de comida preparada para cada empleado, asegurando que se mantenga la temperatura adecuada y que las especificaciones del pedido se cumplan correctamente.
+
+* **Delivery Slot (*Horario de Entrega*):** Periodo de tiempo acordado para la entrega del pedido a la empresa. Es crucial que este horario se respete para mantener la satisfacción del cliente y la eficiencia logística.
+
+* **Quality Check (*Control de Calidad*):** Proceso por el cual el jefe de cocina o un miembro designado del equipo verifica que cada parte del pedido cumpla con los estándares de calidad del restaurante antes de ser enviados.
