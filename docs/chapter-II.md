@@ -379,7 +379,64 @@ Indicadores de frecuencia:
             <td>Alta</td>
         </tr>        
     </tbody>
-</table>  
+</table> 
+
+#### Segmento Objetivo: Restaurantes que brindan almuerzo a sus clientes
+Indicadores de importancia:
+
+| ALTA | BAJA | MEDIA |
+|------|------|-------|      
+
+Indicadores de frecuencia:
+
+| SIEMPRE | RARA VEZ | NUNCA |
+|---------|----------|-------|    
+
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Ernesto Prado - Restaurante</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Presentar su menu para las empresas cercanas</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Recibir el pedido dentro del tiempo estimado</td>
+            <td>A veces</td>
+            <td>Alta</td>
+        </tr>   
+        <tr>
+            <td>Recibir pedidos de los menús solicitados por los empleados</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Recibir pago del pedido solicitado</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Comprobar que no haya ningún problema con el pedido</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Enviar el pedido en el local en el tiempo estimado</td>
+            <td>Siempre</td>
+            <td>Media</td>
+        </tr>   
+    </tbody>
+</table> 
 
 ### 2.3.3. User Journey Mapping.
 
