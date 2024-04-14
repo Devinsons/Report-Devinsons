@@ -777,4 +777,11 @@ En el primer sprint, hemos realizado el diseño, la programación y el despligue
 </table>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para hacer esto, hemos trabajado en un repositorio de GitHub donde divimos el trabajo en ramas. En la sección de configuración y Pages, seleccionamos la rama main para desplegar nuestra web. 
+
+**Link de la landing page desplegada:** https://devinsons.github.io/FastBite-LandingPage/
+
+![GitHub-Pages](/assets/img/chapter-V/GitHub-Pages.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
