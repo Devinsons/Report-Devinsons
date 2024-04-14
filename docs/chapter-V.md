@@ -761,5 +761,20 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 *footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
 ![footer](../assets/img/chapter-V/footer.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "Easy Food"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://devinsons.github.io/FastBite-LandingPage/</td>
+    <td> Desplegar Landing Page de Easy Food</td>
+  </tr>
+</table>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
