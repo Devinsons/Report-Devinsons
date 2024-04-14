@@ -208,6 +208,22 @@ En esta sección se mostrará la landing page haciendo uso de la tipografía, co
 
 ## 4.6.3. Software Architecture Components Diagrams.
 
+**Tracking Component Diagram:**
+
+![Component-trading](/assets/img/chapter-IV/component-tracking-Diagram.png)
+
+**Sales Component Diagram:**
+
+![Component-sales](/assets/img/chapter-IV/component-sales-Diagram.png)
+
+**Payments Component Diagram:**
+
+![Component-payments](/assets/img/chapter-IV/component-payments-Diagram.png)
+
+**Authentication Component Diagram:**
+
+![Component-authentication](/assets/img/chapter-IV/component-authenticator-Diagram.png)
+
 ## 4.7. Software Object-Oriented Design.
 
 ## 4.7.1. Class Diagrams.
