@@ -197,6 +197,10 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1.
+
+Enlaze al product backlog con las tareas correspondientes:https://www.pivotaltracker.com/n/projects/2701196 
+
+![sprint-1](../assets/img/chapter-V/sprint-1.png)
 <table>
   <tr>
     <td> <strong>Sprint #</strong></td>
@@ -321,7 +325,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
     <td rowspan="4" align="center"> HU030 Acceso a la información de la startup y su contacto
     </td>
       <td align="center"> TA01 </td>
-    <td align="center"> Hero</td>
+    <td align="center"> Nosotros</td>
     <td align="center"> Se desarrolla secion donde se muestra la informacion de la starup y los integrantes, debe de tener configuraciones para diferentes tamaños de pantalla</td>
     <td align="center"> 2</td>
     <td align="center"> Omar Christian Berrocal Ramirez </td>
