@@ -223,6 +223,54 @@ Creemos que, si utilizamos un mapa para mostrar los restaurantes afiliados a la 
 
 #### 1.2.2.4. Lean UX Canvas
 
+<table>
+    <tbody>
+        <tr>
+            <td align="left"> <b>1. Business Problems</b>
+            <p>Nuestro entorno revela que muchos empleados de distinas empresas no reciben almuerzo por parte de su lugar de trabajo ¿Cómo podríamos motivar a las empresas a brindar servicio de almuerzo a sus empleados</p>
+            <p>Nuestro entorno revela que muchos restaurantes que ofrecen menús presentan difcultados para gestionar eficientemente la información que manejas y recolectan de su negocio ¿Cómo podríamos ayudar a los restaurantes que ofrecen menús a gestionar y recolectar eficientemente la información de su negocio?</p>
+            <p>Nuestro entorno revela que los restaurantes que ofrecen menús buscan resaltar su servicio frente a la competencia ¿Cómo podríamos ayudar a los restaurantes que ofrecen menús a diferenciarse de la competencia y ampliar su alcance a nuevos clientes?</p></td>
+            <td rowspan=2 align="center"><b>5. solution</b>
+            <p>Una aplicación web que permita acceder a diferentes funcionalidades según la suscripción.</p>
+            <p>Dashboard de analíticas del negocio para los restaurantes</p>
+            <p>Un perfil donde los restaurantes puedan darse a conocer y ampliar su neogocio</p>
+            <p>Descuentos otorgados a las empresas a la hora de comprar menú en los restaurantes afiliados.</p></td>
+            <td align="left"><b>2. Bussiness Outcome</b>
+            <p>Los usuarios están satisfechos con la aplicación</p>
+            <p>Aumenta el númeró de usuarios de EasyFood</p>
+            <p>Constante mantenimiento de la aplicación web</p>
+            <p>Ser conocidos por encima de la competencia</p></td>
+        </tr>
+        <tr>
+            <td align="left"><b>3. User</b>
+            <p>Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.</p>
+            <p>Empresas que necesiten del servicio de los restaurantes para proveer diferentes opciones de comida a sus colaboradores</p>
+            </td>
+            <td align="left"><b>4. User Outcome & Benefit</b>
+            <p>Mejora la gestión de los reaturantes</p>
+            <p>Mejora la productividad de los trabajadores de las empresas</p>
+            <p>Restaurantes amplían el alcance de su negocio</p>
+            </td>
+        </tr>
+        <tr>
+            <td align="left"><b>6. Hypothesis</b>
+            <p>Creemos que, si brindamos facilidades para que las empresas den almuerzos a sus empleados, entonces la productividad de la empresa subirá junto a los estados de ánimo de sus empleados</p>
+            <p>Creemos que, si utilizamos un Dashboard para las analíticas de gestión de información de los restaurantes, entonces podremos brindar información precisa e importante para el usuario a cargo de la administración del restaurante.</p>
+            <p>Creemos que, si ultizamos un mapa para mostrar los restaurantes afiliados a la aplicació que se encuentren cerca de las empresas, y así, hacer más eficiente el proceso para buscar los restaurantes, entonces generaremos una buena impresión y posteriormente percibir más suscripciones</p></td>
+            <td align="center"><b>7. What is the most important thing we need to learn first?</b>
+            <p>Conocer el alcance de los restaurantes que venden menús.</p>
+            <p>Conocer los precios de los menús en la zona que se encuentra una empresa.</p>
+            <p>Conocer los servicios que requiere la empresa</p>
+            </td>
+            <td align="center"><b>8. What is the least amount of work we need to do to learn the next most important thing?</b>
+            <p>Monetizar mediante una suscripción mensual</p>
+            <p>Una app que mantenga una interfaz amigable e interactiva para el usuario</p>
+            <p>Un sistema bien optimizado y funcional</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## 1.3. Segmentos objetivo.
 Este proyecto se desarrollara tomando en cuenta a dos segmentos objetivos.
 
