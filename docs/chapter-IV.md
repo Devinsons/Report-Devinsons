@@ -197,6 +197,66 @@ En esta sección se mostrará la landing page haciendo uso de la tipografía, co
 
 ## 4.4.1. Web Applications Wireframes.
 
+En esta sección se presentarán los wireframes diseñados para nuestra aplicación, los cuales son bocetos en escala de grises que brindan una representación de baja fidelidad de cómo funcionará la aplicación. Además, hay que destacar que estos wireframes fueron realizados en Figma y puede acceder a estos mediante el siguiente link: [Figma - Wireframes - FastBite](https://www.figma.com/file/7QgzTUZif5vpC0IRewq9G8/FastBite---Open-Source?type=design&node-id=0%3A1&mode=design&t=w5Zj7bBvjfNfSX0j-1)
+
+**Interfaz de registro e ingreso de usuarios**
+
+![login-fastbite](/assets/img/chapter-IV/wireframes/login-fastbite.JPG)
+![register-fastbite](/assets/img/chapter-IV/wireframes/register-fastbite.JPG)
+
+**Interfaces para recuperar contraseña**
+
+![forgot-password-1](/assets/img/chapter-IV/wireframes/forgot-password-step-1.JPG)
+![forgot-password-2](/assets/img/chapter-IV/wireframes/forgot-password-step-2.JPG)
+![forgot-password-3](/assets/img/chapter-IV/wireframes/forgot-password-step-3.JPG)
+![forgot-password-4](/assets/img/chapter-IV/wireframes/forgot-password-step-4.JPG)
+
+**Interfaz para obtener suscripción**
+
+![membership-1](/assets/img/chapter-IV/wireframes/membership-step-1.JPG)
+![membership-2](/assets/img/chapter-IV/wireframes/membership-step-2.JPG)
+
+**Interfaces de administradores de empresas**
+
+![business-segment-1](/assets/img/chapter-IV/wireframes/business-segment-step-1.JPG)
+![business-segment-2](/assets/img/chapter-IV/wireframes/business-segment-step-2.JPG)
+![business-segment-3](/assets/img/chapter-IV/wireframes/business-segment-step-3.JPG)
+![business-segment-4](/assets/img/chapter-IV/wireframes/business-segment-step-4.JPG)
+
+**Interfaces de administrador de empresa para generar un pedido**
+
+![generate-order-1](/assets/img/chapter-IV/wireframes/generate-order-step-1.JPG)
+![generate-order-2](/assets/img/chapter-IV/wireframes/generate-order-step-2.JPG)
+![generate-order-3](/assets/img/chapter-IV/wireframes/generate-order-step-3.JPG)
+![generate-order-4](/assets/img/chapter-IV/wireframes/generate-order-step-4.JPG)
+![generate-order-5](/assets/img/chapter-IV/wireframes/generate-order-step-5.JPG)
+
+**Interfaces de administrador de restaurantes**
+
+![restaurant-segment-1](/assets/img/chapter-IV/wireframes/restaurant-segment-step-1.JPG)
+![restaurant-segment-2](/assets/img/chapter-IV/wireframes/restaurant-segment-step-2.JPG)
+![restaurant-segment-3](/assets/img/chapter-IV/wireframes/restaurant-segment-step-3.JPG)
+![restaurant-segment-4](/assets/img/chapter-IV/wireframes/restaurant-segment-step-4.JPG)
+![restaurant-segment-5](/assets/img/chapter-IV/wireframes/restaurant-segment-step-5.JPG)
+
+**Interfaces de administradores de restaurantes para atender un pedido**
+
+![attend-order-1](/assets/img/chapter-IV/wireframes/attend-order-step-1.JPG)
+![attend-order-2](/assets/img/chapter-IV/wireframes/attend-order-step-2.JPG)
+![attend-order-3](/assets/img/chapter-IV/wireframes/attend-order-step-3.JPG)
+
+**Interfaces de administradores de restaurantes para generar un menú**
+
+![create-menu-1](/assets/img/chapter-IV/wireframes/create-menu-step-1.JPG)
+![create-menu-2](/assets/img/chapter-IV/wireframes/create-menu-step-2.JPG)
+![create-menu-3](/assets/img/chapter-IV/wireframes/create-menu-step-3.JPG)
+
+**Interfaces de administradores de restaurantes para gestionar inventario**
+
+![manage-inventory-1](/assets/img/chapter-IV/wireframes/manage-inventory-step-1.JPG)
+![manage-inventory-2](/assets/img/chapter-IV/wireframes/manage-inventory-step-2.JPG)
+
+
 ## 4.4.2. Web Applications Wireflow Diagrams.
 
 ## 4.4.2. Web Applications Mock-ups.
