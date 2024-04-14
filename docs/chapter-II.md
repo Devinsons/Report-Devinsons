@@ -442,6 +442,10 @@ Indicadores de frecuencia:
 
 ### 2.3.4. Empathy Mapping.
 
+![EmpathyMap-Empresas](/assets/img/chapter-II/EmpathyMap-Empresas.png)
+
+![EmpathyMap-Restaurantes](/assets/img/chapter-II/EmpathyMap-Restaurantes.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento de Objetivo:** Administrador de la empresa que brinda almuerzo a sus empleados
