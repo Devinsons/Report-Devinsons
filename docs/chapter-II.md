@@ -254,6 +254,41 @@
 
 <p style="text-align:justify;">Por último, la entrevistada menciona que presentaba algunos inconvenientes, como la confusión del pedido, pero se resolvía fácilmente, ya que los restaurantes estaban cerca de la empresa. Además, la entrevistada nos indicó que estaría dispuesta a realizar sus pedidos con descuentos por una aplicación, pero tendría que analizar que sea segura, ya que escucho de aplicaciones como Rappi, donde se pierden los pedidos o que nunca llegan.</p>
 
+**Entrevista 4**
+
+**Datos del Entrevistado:**
+
+* **Nombre:** Francisco Mogollon Murray
+* **Edad:** 34
+* **Ocupación:** Jefe de Cocina
+* **Ubicación de la Empresa:** Surco
+
+![Restaurant-Segment-Interview-1](/assets/img/chapter-II/Restaurant-Segment-Interview-1.png)
+
+**Resumen de la Entrevista:**
+
+<p style="text-align:justify;">El entrevistado nos menciona que trabaja como jefe e cocina en un restaurante de surco, el tiene 34 años y se dedica a la direccion de la cocina de su restaurante, nos comento el proceso de elaboracion de los pedidos, a su vez tambien nos comento como era la organizacion del inventario dentro de tu local.</p>
+
+<p style="text-align:justify;">Por otra parte, nos comento que diariamente recibe la cantidad de 1500 a 2000 clientes aproximadamente, lo cual esta dentro de su estimacion. Nos comenta que los pedidos son llevados a la cocina por medio de las comandas, tras ser recibidas se realiza la prepacion del platillo y pasa por una previa revision antes de su entrega al cliente final.</p>
+
+<p style="text-align:justify;">El nos comento, que seria genial recibir un pedido por parte de una empresa y que estaria completamente de acuerdo con su preparacion, solo nos comenta que le gustaria que sea previamente agendado, con una semana de anticipacion, para que se pueda realizar el pedido de manera correcta.</p>
+
+**Entrevista 5**
+
+**Datos del Entrevistado:**
+
+* **Nombre:** Ximena Canchaya Moran
+* **Edad:** 24
+* **Ocupación:** Jefe de Cocina
+* **Ubicación de la Empresa:** San Borja
+
+![Restaurant-Segment-Interview-2](/assets/img/chapter-II/Restaurant-Segment-Interview-2.png)
+
+<p style="text-align:justify;">La entrevistada nos comenta que su trabajo es como jefa de cocina a sus 24 años, lo cual es sorprente por su edad. Ella nos comento el proceso de elaboracion de las comandas, las cuales llevan el mismo funcionamiento en persona y por medio de internet. Las comandas llegan a la cocina, el platillo es elaborado y pasa por una previa revision.</p>
+
+<p style="text-align:justify;">Ella nos menciona que sus clientes diarios son unos 2000 aproximadamente, lo cual por suerte esta dentro de lo esperado para su restaurante. Ella nos comenta que el secreto para tener un negocio sostenible es tener una buena imagen y un menu que sea llamativo de manera constante.</p>
+
+<p style="text-align:justify;">Finalmente nos comento que aceptaria recibir un pedido grande por parte de una empresa, pero que este debe ser agendado con una o dos semanas de anticipacion para la compra de los insumos y previas preparaciones que se deben tener en una preparacion tan grande como esta.</p>=
 
 ### 2.2.3. Análisis de entrevistas.
 
