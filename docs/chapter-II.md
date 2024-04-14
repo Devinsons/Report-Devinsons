@@ -470,7 +470,7 @@ Indicadores de frecuencia:
 
 * **Menu list** (*Lista del menú*): Hace referencia a los platos, entradas y bebidas que ofrece el restaurante durante ese día.
 
-* **Segmento Objetivo:** Jefes de cocina de restaurantes que preparan y envían almuerzos a empresas.
+**Segmento Objetivo:** Jefes de cocina de restaurantes que preparan y envían almuerzos a empresas.
 
 * **Order relationship (*Relación del pedido*):** Se refiere a la secuencia detallada de platos, entradas, bebidas y postres solicitados por una empresa, incluyendo las cantidades específicas y cualquier instrucción especial (como alergias o preferencias dietéticas) que necesitan ser observadas en la preparación.
 
