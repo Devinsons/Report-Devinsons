@@ -16,6 +16,7 @@ FastBite utiliza "Fast" (rápido) y "Bite" (bocado) en su nombre para transmitir
 
 A continuacion, se presenta el logo:
 
+![logo](../assets/img/chapter-IV/fastbite-logo.png)
 
 
 **Typography**
