@@ -120,7 +120,7 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo de una landing page d
 
 Repositorio Github: https://github.com/Devinsons/FastBite-LandingPage 
 
-Landing page desplegada:
+Landing page desplegada: https://devinsons.github.io/FastBite-LandingPage/
 #### 5.2.1.1. Sprint Planning 1.
 Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 19 horas.
 
@@ -341,6 +341,115 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Devinsons/FastBite-LandingPage </td>
+    <td align="center"> main</td>
+    <td align="center"> 7a5a8183be618f04d1fb5817d9918e35cae9dda7</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 12/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/funcionality</td>
+    <td align="center" > 0ae643b60a5e5096960a618b8310a35448a95147</td>
+    <td align="center"> feat: added functionality section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 13/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feat: Completed plans section</td>
+    <td align="center">76ebcbb2700d88cdb059ad121d4ca87833eb3ecb</td>
+    <td align="center"> feat: Added navigation bar for mobile version dynamically</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center"> 68dc50e89ccee25a7c7154a7efcf1e658c6cd15a
+</td>
+    <td align="center"> feat: Completed responsive navigation bar</td>
+    <td align="center"> ---</td>
+    <td align="center">14/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 2aa4d954c12beadfa4776fe1eb097a53fd19434b</td>
+    <td align="center">feat: Added secction hero responsive</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center"> 3294355258cb5b7127b28944b2cb08f9e9dc1d88</td>
+    <td align="center">feat: develop merge branch header and hero</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/benefits</td>
+    <td align="center"> ffd6eef72e6d2f522723253a7702f2b2ec89f1a1</td>
+    <td align="center"> feat: added benefits html and css</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> ac23a894ce4e07af1c3705077281543844ab8da4</td>
+    <td align="center"> feat: Footer section completed
+</td>
+    <td align="center"> ---</td>
+    <td align="center"> 14/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center">029a14d7003dbd548c95ffbebcfe3a2d547c7f4b
+
+</td>
+    <td align="center"> feat: about-us section completed</td>
+    <td align="center"> ---</td>
+    <td align="center">14/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center"> develop</td>
+    <td align="center">b45f8c98394df8b22a5311a527b25e298e418e2b
+
+</td>
+    <td align="center"> feat: develop merge brach benefits and funcionality</td>
+    <td align="center"> ---</td>
+    <td align="center">14/04/2024</td>
+  </tr>
+ 
+
+  <tr>
+    <td align="center"> develop</td>
+    <td align="center">93e70e2038a337cc943a06cf34d25eb26e6bd185
+
+</td>
+    <td align="center"> feat: develop merge brach about-us</td>
+    <td align="center"> ---</td>
+    <td align="center">14/04/2024</td>
+  </tr>
+</table>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
