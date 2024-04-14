@@ -74,6 +74,9 @@ Aqui se describira los user stories de la aplicación web y de la landing page.
 ![ImpactMap-Restaurantes](/assets/img/chapter-III/ImpactMap-Restaurantes.png)
 
 ## 3.4. Product Backlog.
+
+link de pivotal-tracker:  https://www.pivotaltracker.com/n/projects/2701196
+
 |#order| User StorieID | Titulo | Descripción   |Story Points(1,2,3,5,8)|
 |------|---------------|---------|---------------|------------|
 | 1 | HU001 | Registrar nuevo usuario | Como usuario quiero poder registrarme en la aplicación web para acceder a las funcionalidades que se me ofrece | 3 |
