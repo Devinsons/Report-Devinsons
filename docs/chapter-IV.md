@@ -4,6 +4,56 @@
 
 ## 4.1.1. General Style Guidelines.
 
+En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+
+**Brand Overview**
+
+FastBite es una plataforma diseñada para simplificar el proceso de pedidos de almuerzos para empresas. Nuestro objetivo es ofrecer una experiencia de usuario fluida y conveniente tanto para los administradores de empresas como para los restaurantes asociados, asegurando que los empleados reciban comidas deliciosas y nutritivas en el lugar de trabajo.
+
+**Brand Name**
+
+FastBite utiliza "Fast" (rápido) y "Bite" (bocado) en su nombre para transmitir de manera precisa la experiencia y beneficios que ofrece la aplicación. Fast (Rápido) representa la velocidad y eficiencia del servicio que FastBite proporciona. La aplicación permite a los usuarios realizar pedidos de comida de forma rápida y sencilla, agilizando el proceso de selección, pago y entrega. Por otro lado, Bite (Bocado) evoca la idea de disfrutar de una comida deliciosa y satisfactoria. FastBite se centra en ofrecer una amplia variedad de opciones culinarias que son sabrosas, frescas y que satisfacen los antojos de los usuarios. Juntos, "FastBite" transmite la idea de una experiencia culinaria conveniente, rápida y deliciosa, donde los usuarios pueden disfrutar de bocados deliciosos sin tener que esperar mucho tiempo ni complicarse con procesos largos.
+
+A continuacion, se presenta el logo:
+
+
+
+**Typography**
+
+La elección de la tipografía Montserrat en FastBite se basa en su capacidad para mejorar la legibilidad y la comprensión del contenido en todas las secciones de nuestra interfaz. Esta tipografía se utiliza en cuatro niveles distintos: encabezados, cuerpo de texto, botones y enlaces. Su estilo amigable y fácil de leer ayuda a los usuarios a navegar por nuestras páginas de manera intuitiva y atractiva, guiándolos de forma efectiva a través de la experiencia de usuario.
+
+![Montserrat](/assets/img/chapter-IV/Montsrrat.png)
+
+**Colors**
+
+La gama de colores seleccionada para la app FastBite se basa en la psicología del color y en la transmisión de emociones y sensaciones específicas para mejorar la experiencia del usuario:
+
+- Rojo: El rojo se asocia comúnmente con la energía, la pasión y el apetito. En FastBite, el color rojo se utiliza estratégicamente para resaltar elementos importantes como botones de acción, promociones y notificaciones, creando un sentido de urgencia y atrayendo la atención del usuario de manera efectiva.
+
+![img.png](../assets/img/chapter-IV/Rojo.png)
+
+- Naranja: El naranja es un color cálido y enérgico que evoca la felicidad y la creatividad. En la app, el naranja se utiliza para destacar características positivas y aspectos alegres, como ofertas especiales, opciones de menú destacadas o mensajes de satisfacción del cliente.
+
+![img_1.png](../assets/img/chapter-IV/Naranja.png)
+
+- Rosado: El rosa es un color suave y relajante que se asocia con la ternura, la amabilidad y la dulzura. En FastBite, el color rosa puede utilizarse para resaltar información importante pero de manera amigable, como políticas de la empresa, términos y condiciones, o mensajes de bienvenida.
+
+![img_2.png](../assets/img/chapter-IV/Rosado.png)
+
+- Blanco: El blanco se relaciona con la claridad, la simplicidad y la limpieza. Es utilizado en FastBite para espacios de respiración, fondos neutros y áreas donde se desea enfocar la atención del usuario sin distracciones visuales.
+
+![img_3.png](../assets/img/chapter-IV/Blanco.png)
+
+- Gris: El gris es un color neutral que transmite profesionalismo, estabilidad y modernidad. En la app, el gris se utiliza para elementos secundarios como barras de navegación, fondos de texto y otros elementos que complementan la paleta de colores principal sin competir por la atención del usuario.
+
+![img_4.png](../assets/img/chapter-IV/Gris.png)
+
+En conjunto, esta gama de colores en FastBite busca crear una experiencia visual equilibrada y atractiva, que capte la atención del usuario de manera efectiva, transmita la personalidad y valores de la marca, y mejore la usabilidad y comprensión de la interfaz.
+
+**Tono de lenguaje de comunicación y lenguaje aplicado**
+
+En FastBite, utilizamos un tono amigable y cercano, comunicando de manera clara y concisa para mantener un nivel de profesionalismo adecuado, persuadir a los usuarios de manera empática y aplicar un lenguaje claro y sencillo que sea accesible para todos los usuarios, adaptándonos al contexto según sea necesario.
+
 ## 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
