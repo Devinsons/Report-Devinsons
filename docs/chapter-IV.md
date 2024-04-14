@@ -196,6 +196,10 @@ En esta sección se mostrará la landing page haciendo uso de la tipografía, co
 
 ## 4.6.1. Software Architecture Context Diagram.
 
+**System Context Diagram:**
+
+![System-Context-Diagram](/assets/img/chapter-IV/System-Context-Diagram.png)
+
 ## 4.6.2. Software Architecture Container Diagrams.
 
 ## 4.6.3. Software Architecture Components Diagrams.
