@@ -202,6 +202,10 @@ En esta sección se mostrará la landing page haciendo uso de la tipografía, co
 
 ## 4.6.2. Software Architecture Container Diagrams.
 
+**Container Diagram:**
+
+![Container-Diagram](/assets/img/chapter-IV/Container-Diagram.png)
+
 ## 4.6.3. Software Architecture Components Diagrams.
 
 ## 4.7. Software Object-Oriented Design.
