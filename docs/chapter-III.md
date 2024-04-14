@@ -69,9 +69,9 @@ Aqui se describira los user stories de la aplicación web y de la landing page.
 
 ## 3.3. Impact Mapping.
 
-[ImpactMap-Empresas](/assets/img/chapter-III/ImpactMap-Empresas.png)
+![ImpactMap-Empresas](/assets/img/chapter-III/ImpactMap-Empresas.png)
 
-[ImpactMap-Restaurantes](/assets/img/chapter-III/ImpactMap-Restaurantes.png)
+![ImpactMap-Restaurantes](/assets/img/chapter-III/ImpactMap-Restaurantes.png)
 
 ## 3.4. Product Backlog.
 |#order| User StorieID | Titulo | Descripción   |Story Points(1,2,3,5,8)|
