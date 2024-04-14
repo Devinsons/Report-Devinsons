@@ -480,6 +480,14 @@ Indicadores de frecuencia:
 
 ### 2.3.3. User Journey Mapping.
 
+**Segmento de Objetivo:** Administrador de la empresa que brinda almuerzo a sus empleados
+
+![User-Journey-Mapping-Business](/assets/img/chapter-II/User-Journey-Mapping-Business.png)
+
+**Segmento de Objetivo:** Administrador del restaurante tiene que gestionar y analizar la rentabilidad del negocio.
+
+![User-Journey-Mapping-Restaurant](/assets/img/chapter-II/User-Journey-Mapping-Restaurant.png)
+
 ### 2.3.4. Empathy Mapping.
 
 ![EmpathyMap-Empresas](/assets/img/chapter-II/EmpathyMap-Empresas.png)
