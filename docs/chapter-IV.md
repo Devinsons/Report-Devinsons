@@ -21,9 +21,20 @@
 ## 4.3. Landing Page UI Design.
 
 ## 4.3.1. Landing Page Wireframe.
+En esta sección se mostrará una representación de bajo nivel de la landing page.[link de wireframe](https://www.figma.com/file/fp9TggWKgnPcDyMw6CtjcM/FastBITE?type=design&node-id=1%3A292&mode=design&t=2AWNbuoKspwpadXU-1)
+
+**Landing Page para Desktop Web Browser:**
+
+![wirefram desktop](../assets/img/chapter-IV/Wireframe-Devinsons-lading.png)
+
+**Mobile Web Browser:**
+Aqui se mostrara un esquema a bajo nivel de la version mobile, cumpliendo con la regla de ser responsive.
+![wireframe mobile](../assets/img/chapter-IV/mobile-wireframe-devinsons.png)
 
 ## 4.3.2. Landing Page Mock-up.
+En esta sección se mostrará la landing page haciendo uso de la tipografía, colores y etiquetas,previamente documentada. [link de Mockup](https://www.figma.com/file/fp9TggWKgnPcDyMw6CtjcM/FastBITE?type=design&node-id=1%3A292&mode=design&t=2AWNbuoKspwpadXU-1)
 
+![mockup-deskop](../assets/img/chapter-IV/mockup-devinsons-lading.png)
 ## 4.4. Web Applications UX/UI Design.
 
 ## 4.4.1. Web Applications Wireframes.
