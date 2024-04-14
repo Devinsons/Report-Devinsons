@@ -147,6 +147,12 @@ Este sistema de etiquetado se enfoca en categorizar y clasificar los elementos d
 
 ## 4.2.4. Searching Systems.
 
+Búsqueda de Restaurantes:
+
+Esta función permite a los usuarios buscar rápidamente restaurantes cercanos y de confianza. Los usuarios pueden especificar la ubicación por distrito para encontrar restaurantes en esa área específica. Además, tienen la opción de ordenar la lista de acuerdo a los filtros seleccionados
+
+![img.png](../assets/img/chapter-IV/searchingsystems.png)
+
 ## 4.2.5. Navigation Systems.
 
 ## 4.3. Landing Page UI Design.
