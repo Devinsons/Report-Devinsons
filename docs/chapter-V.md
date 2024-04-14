@@ -785,3 +785,16 @@ Para el despliegue de nuestra Landing Page hemos utilizado GitHub Pages. Para ha
 ![GitHub-Pages](/assets/img/chapter-V/GitHub-Pages.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Devinsons.
+
+![Commits-landing](/assets/img/chapter-V/Commits-Landing-Repository.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
+
+![Contribuitors-landing](/assets/img/chapter-V/Contribuitors-Landing.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en la Landing Page.
+
+![Traffic-landing](/assets/img/chapter-V/Traffic-landing.png)
+Estos gráficos nos presenta información de las clonaciones que se hicieron al repositorio y tambien las visitas únicas que tuvo el repositorio.
+
+![Network-landing](/assets/img/chapter-V/Network-landing.png)
