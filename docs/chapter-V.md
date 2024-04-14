@@ -114,6 +114,27 @@ Este es un conjunto de reglas, las cuales deben seguir nuestros commits para cre
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
+
+Como se mencionó en un punto anterior, el código fuente se administra mediante GitHub. También utilizaremos GitHub Pages para desplegar la Landing Page.
+
+Actualmente el avance del Landing Page se encuentra en el repositorio FastBite-LandingPage en el siguiente url: https://github.com/orgs/Devinsons/repositories
+
+![Devisons-Landing-Page](../assets/img/chapter-V/Denvinson-reposytories.png)
+
+Para desplegar la Landing Page de manera local descargamos el zip, o podemos clonar el repositorio con la herramienta git y el comando: 
+
+    git clone + URL repository
+
+Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Visual Studio Code) seleccionamos la opción “Open Folder” y ubicamos la carpeta donde guardamos el repositorio y abrimos a carpeta.
+
+![Open-Folder](/assets/img/chapter-V/open-folder.png)
+
+Una vez posicionados en el archivo “index.html” vamos a la opción “Run” y le demos a Start Debugging, o podemos usar el atajo de tecla F5 para comenzar a correr el programa.
+
+![Run-Option](/assets/img/chapter-V/run-option.png)
+
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 Durante el Sprint 1, el equipo se enfocó en el desarrollo de una landing page diseñada para convertir a visitantes en potenciales clientes interesados en nuestra aplicación web. Para este propósito, se utilizó el entorno de desarrollo WebStorm y se emplearon los lenguajes HTML, CSS y JavaScript para crear una página atractiva y funcional.
