@@ -762,7 +762,7 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 ![footer](../assets/img/chapter-V/footer.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "Easy Food"
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "FastBite"
 
 <table> 
   <tr>
@@ -772,7 +772,7 @@ En el primer sprint, hemos realizado el diseño, la programación y el despligue
 
   <tr>
     <td> https://devinsons.github.io/FastBite-LandingPage/</td>
-    <td> Desplegar Landing Page de Easy Food</td>
+    <td> Desplegar Landing Page de FastBite</td>
   </tr>
 </table>
 
