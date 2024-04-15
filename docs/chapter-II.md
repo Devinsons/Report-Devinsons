@@ -203,7 +203,8 @@
 * **Edad:** 54
 * **Ocupación:** Empresario en el sector de Metal Mecánica
 * **Ubicación de la Empresa:** Parque Industrial - Villa El Salvador
-
+* **Duración de la entrevista:** [00:00:09 - 00:06:12]
+* **Video de las entrevistas:** [Needfinding-Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EWvdASRwPm5PrcE52E045HQBbDLx38pk48K5Uo2m7HhkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FKz9eq)
 
 **Resumen de la Entrevista:**
 
@@ -223,6 +224,8 @@
 * **Edad:** 51
 * **Ocupación:** Administradora de un Taller de Confecciones
 * **Ubicación de la Empresa:** Chorrillos
+* **Duración de la entrevista:** [00:06:13 - 00:11:52]
+* **Video de las entrevistas:** [Needfinding-Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EWvdASRwPm5PrcE52E045HQBbDLx38pk48K5Uo2m7HhkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FKz9eq)
 
 **Resumen de la Entrevista:**
 
@@ -242,7 +245,8 @@
 * **Edad:** 37
 * **Ocupación:** Administradora de una empresa importadora
 * **Ubicación de la Empresa:** Chorrillos - Guardia Civil
-
+* **Duración de la entrevista:** [00:11:53 - 00:20:25]
+* **Video de las entrevistas:** [Needfinding-Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EWvdASRwPm5PrcE52E045HQBbDLx38pk48K5Uo2m7HhkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FKz9eq)
 
 **Resumen de la Entrevista:**
 
@@ -262,6 +266,9 @@
 * **Edad:** 34
 * **Ocupación:** Jefe de Cocina
 * **Ubicación de la Empresa:** Surco
+* **Duración de la entrevista:** [00:20:35 - 00:34:25]
+* **Video de las entrevistas:** [Needfinding-Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EWvdASRwPm5PrcE52E045HQBbDLx38pk48K5Uo2m7HhkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FKz9eq)
+
 
 ![Restaurant-Segment-Interview-1](/assets/img/chapter-II/Restaurant-Segment-Interview-1.png)
 
@@ -281,6 +288,9 @@
 * **Edad:** 24
 * **Ocupación:** Jefe de Cocina
 * **Ubicación de la Empresa:** San Borja
+* **Duración de la entrevista:** [00:34:26 - 00:40:44]
+* **Video de las entrevistas:** [Needfinding-Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EWvdASRwPm5PrcE52E045HQBbDLx38pk48K5Uo2m7HhkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FKz9eq)
+
 
 ![Restaurant-Segment-Interview-2](/assets/img/chapter-II/Restaurant-Segment-Interview-2.png)
 
@@ -295,12 +305,16 @@
 
 **Datos del Entrevistado:**
 
-**Nombre:** Marin Walter Cuevas Perales
-**Edad:** 24
-**Ocupación:** Estudiante
-**Ubicación de la Empresa:** Provincia en la sierra
+* **Nombre:** Marin Walter Cuevas Perales
+* **Edad:** 24
+* **Ocupación:** Estudiante
+* **Ubicación de la Empresa:** Provincia en la sierra
+* **Duración de la entrevista:** [00:40:45 - 00:48:04]
+* **Video de las entrevistas:** [Needfinding-Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EWvdASRwPm5PrcE52E045HQBbDLx38pk48K5Uo2m7HhkKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FKz9eq)
 
 **Resumen de la Entrevista:**
+
+
 <p style="text-align:justify">En la entrevista realizada a Marín, que anteriormente ayudaba en el negocio de restaurante familiar, nos menciona que llegaba a obtener un promedio de 40 clientes, teniendo como meta llegar a 60 clientes. El negocio no hacía delivery, pero aun así se solía vender casi todo, sobrando menos de 5 raciones de todos los platillos. Para crear su menú lo que tomaba en cuenta era principalmente el costo de los ingredientes y la calidad del producto. También nos menciona que el proceso de recepción de un pedido era anotado en un post-it que se llevaba a la cocina y se preparaba. No usaban ningún software para el control de inventario ni el control de asistencia de los empleados. Con respecto a la publicidad, ya que el negocio se encontraba en un pueblo no muy grande en la sierra, a lo mucho hacía anuncios en la radio. Por último, menciona que sí podrían satisfacer la demanda de platillos para una empresa siempre y cuando se sepa la cantidad que se requiere preparar para hacerlo con anticipación.</p>
 
 
