@@ -311,9 +311,70 @@ En esta sección se presentarán los wireframes diseñados para nuestra aplicaci
 
 ## 4.4.2. Web Applications Mock-ups.
 
+**Interfaz de registro e ingreso de usuarios**
+
+![login-fastbite](/assets/img/chapter-IV/web-mockups/login-fastbite-web.png)
+![register-fastbite](/assets/img/chapter-IV/web-mockups/register-fastbite-web.png)
+
+**Interfaces para recuperar contraseña**
+
+![forgot-password-1](/assets/img/chapter-IV/web-mockups/Login-Fastbite-1-web.png)
+![forgot-password-2](/assets/img/chapter-IV/web-mockups/Login-Fastbite-2-web.png)
+![forgot-password-3](/assets/img/chapter-IV/web-mockups/Login-Fastbite-3-web.png)
+![forgot-password-4](/assets/img/chapter-IV/web-mockups/Login-Fastbite-4-web.png)
+
+**Interfaz para obtener suscripción**
+
+![membership-1](/assets/img/chapter-IV/web-mockups/Memberships-Fastbite-web.png)
+![membership-2](/assets/img/chapter-IV/web-mockups/payment-Fastbite-web.png)
+
+**Interfaces de administradores de empresas**
+
+![business-segment-1](/assets/img/chapter-IV/web-mockups/Home-Fastbite-web.png)
+![business-segment-2](/assets/img/chapter-IV/web-mockups/Profile-Restaurant-Fastbite-web.png)
+![business-segment-3](/assets/img/chapter-IV/web-mockups/Restaurants-Search-Fastbite-web.png)
+![business-segment-4](/assets/img/chapter-IV/web-mockups/Home-Restaurant-Fastbite-1-web.png)
+
+**Interfaces de administrador de empresa para generar un pedido**
+
+![generate-order-1](/assets/img/chapter-IV/web-mockups/Restaurants-Search-Fastbite-web.png)
+![generate-order-2](/assets/img/chapter-IV/web-mockups/Restaurants-Profile-Fastbite-web.png)
+![generate-order-3](/assets/img/chapter-IV/web-mockups/Restaurants-Menu-Order-Fastbite-web.png)
+![generate-order-4](/assets/img/chapter-IV/web-mockups/Restaurants-Menu-Fastbite-web.png)
+![generate-order-5](/assets/img/chapter-IV/web-mockups/Restaurants-Menu-Fastbite-1-web.png)
+
+**Interfaces de administrador de restaurantes**
+
+![restaurant-segment-1](/assets/img/chapter-IV/web-mockups/Home-Restaurant-Fastbite-web.png)
+![restaurant-segment-2](/assets/img/chapter-IV/web-mockups/Profile-Restaurant-Fastbite-web.png)
+![restaurant-segment-3](/assets/img/chapter-IV/web-mockups/Menu-CrearMenu-Restaurant-Fastbite-web.png)
+![restaurant-segment-4](/assets/img/chapter-IV/web-mockups/Restaurants-Search-Fastbite-1-web.png)
+![restaurant-segment-5](/assets/img/chapter-IV/web-mockups/Dashboard-Restaurant-Fastbite-web.png)
+
+**Interfaces de administradores de restaurantes para atender un pedido**
+
+![attend-order-1](/assets/img/chapter-IV/web-mockups/Restaurants-Search-Fastbite-1-web.png)
+![attend-order-2](/assets/img/chapter-IV/web-mockups/Restaurants-Search-Fastbite-3-web.png)
+![attend-order-3](/assets/img/chapter-IV/web-mockups/Restaurants-Search-Fastbite-4-web.png)
+
+**Interfaces de administradores de restaurantes para generar un menú**
+
+![create-menu-1](/assets/img/chapter-IV/web-mockups/Menu-CrearMenu-Restaurant-Fastbite-web.png)
+![create-menu-2](/assets/img/chapter-IV/web-mockups/Menu-Agregar%20Platos-Restaurant-Fastbite-web.png)
+![create-menu-3](/assets/img/chapter-IV/web-mockups/Menu-Agregar%20Platos-Restaurant-Fastbite-1-web.png)
+
+**Interfaces de administradores de restaurantes para gestionar inventario**
+
+![manage-inventory-1](/assets/img/chapter-IV/web-mockups/Dashboard-Restaurant-Fastbite-web.png)
+![manage-inventory-2](/assets/img/chapter-IV/web-mockups/Dashboard-Restaurant-Fastbite-1-web.png)
+
 ## 4.4.3. Web Applications User Flow Diagrams.
 
+
+
 ## 4.5. Web Applications Prototyping.
+
+
 
 ## 4.6. Domain-Driven Software Architecture.
 
