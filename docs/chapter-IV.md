@@ -370,6 +370,55 @@ En esta sección se presentarán los wireframes diseñados para nuestra aplicaci
 
 ## 4.4.3. Web Applications User Flow Diagrams.
 
+### Usuarios:
+
+* **User goal:** Como usuario quiero registrarme en la aplicación web para acceder a las funcionalidades que ofrece
+
+![img_1.png](../assets/img/chapter-IV/web-mockups/register.png)
+
+* **User goal:** Como usuario quiero iniciar sesión con mi correo y contraseña para acceder a la plataforma
+
+![img_2.png](../assets/img/chapter-IV/web-mockups/login.png)
+
+* **User goal:** Como usuario quiero poder restablecer mi contraseña a través de una verificación desde mi correo para garantizar la seguridad de mi cuenta
+
+![img.png](../assets/img/chapter-IV/web-mockups/forgotpass.png)
+
+### Administradores de empresa:
+
+* **User Goal:** Como usuario, necesito la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada con mi cuenta esté siempre actualizada y precisa.
+
+![img.png](../assets/img/chapter-IV/web-mockups/editprofile.png)
+
+* **User Goal:** Como administrador de la empresa suscrita, quiero poder acceder al catálogo de menús diarios proporcionados por los restaurantes afiliados, para seleccionar fácilmente los almuerzos que se ofrecerán a los empleados
+
+![img.png](../assets/img/chapter-IV/web-mockups/resname.png)
+
+* **User Goal:** Como administrador de la empresa suscrita, quiero poder realizar pedidos de almuerzos en nombre de los empleados y programar la entrega de los mismos
+
+![img.png](../assets/img/chapter-IV/web-mockups/orderdet.png)
+
+* **User Goal:** Como administrador de la empresa suscrita, quiero poder acceder a un historial completo de pedidos realizados, para tener un registro de las órdenes hechas a cada restaurante y fechas correspondientes
+
+![img.png](../assets/img/chapter-IV/web-mockups/myorders.png)
+
+### Administradores de Restaurantes:
+
+* **User Goal:** Como administrador del restaurante afiliado, quiero tener la capacidad de actualizar rápidamente el menú diario en la plataforma, para garantizar que los clientes corporativos tengan acceso a información actualizada sobre las opciones de almuerzo.
+
+![img.png](../assets/img/chapter-IV/web-mockups/agregarmenu.png)
+
+* **User Goal:** Como administrador del restaurante afiliado, quiero tener un registro dentro plataforma donde pueda ver un resumen de todos los pedidos recibidos, incluido su estado actual (pendiente, en preparación, entregado), para facilitar la gestión y seguimiento de los pedidos.
+
+![img.png](../assets/img/chapter-IV/web-mockups/pedido.png)
+
+* **User Goal:** Como administrador del restaurante afiliado, quiero poder acceder a gráficos y análisis que muestran las métricas clave de mi negocio para tomar decisiones informadas respecto al restaurante.
+
+![img.png](../assets/img/chapter-IV/web-mockups/dashboard.png)
+
+* **User Goal:** Como administrador del restaurante afiliado, quiero poder registrar nuevos insumos y productos en el sistema, incluyendo detalles como nombre, cantidad disponible y fecha de vencimiento, para mantener un registro preciso del inventario.
+
+![img.png](../assets/img/chapter-IV/web-mockups/dashboardupdate.png)
 
 
 ## 4.5. Web Applications Prototyping.
