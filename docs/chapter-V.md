@@ -1057,6 +1057,20 @@ Durante este sprint el equipo se centrará en el desarrollo front-end con el fra
 
 Después de finalizar el Sprint 2, hemos logrado implementar las secciones de nuestra Web Application que fijamos como meta para el Sprint 2, logrando así un flujo comprensible y que brinda una buena comprensión del funcionamiento y las características de la Web Application. Habiendo dicho lo anterior, hemos desarrollado las principales vistas de nuestra web, añadiendo métodos de navegación como botones ubicados permanentemente en la parte izquierda de la aplicación, facilitando la navegación y volviendola más intuitiva y. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
 
+Profile: En esta sección puedes ver los datos principales del usuario y tambien editarlos.
+![Profile-Frontend](/assets/img/chapter-V/profile-frontend.png)
+
+
+Restaurants: En esta sección se puede ver una lista con los restaurantes a elegir de los que puedes ordenar menús. Al seleccionar un restaurante te lleva a la sección de menús.
+![Restaurants-Frontend](/assets/img/chapter-V/restaurants-frontend.png)
+
+
+Menús: En esta sección puedes ver y seleccionar los platos que quieres ordenar, los platillos varían segun el resturante que escogiste previamente.
+![Menus-Frontend](/assets/img/chapter-V/menus-restaurant.png)
+
+
+Subsciption: En esta sección puedes ver los planes o suscripciones que se peuden adquirir en la aplicación web para accedar a todas nuestras características.
+![Subscription-Frontend](/assets/img/chapter-V/subscription-frontend.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -1096,7 +1110,7 @@ Por último, finalizamos ejecutando el siguiente comando y tendremos nuestra apl
 firebase deploy
 ```
 
-*Enlace de la Web Application:*
+*Enlace de la Web Application:* https://main--stirring-zuccutto-ce17de.netlify.app/ejemplo
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -1105,7 +1119,7 @@ La meta de este sprint fue el desarrollo del Web Applitacion. Para llevar a cabo
 ![Commits-Front-End](/assets/img/chapter-V/commits-frontend.png)
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el Web Application.
 
-![Contribuitors-Front-End](/assets/img/chapter-V/contribuitors-frontend.png)
+![Contribuitors-Front-End](/assets/img/chapter-V/contributors-frontend.png)
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el Web Application.
 
 ![Traffic-Front-End](/assets/img/chapter-V/traffic-frontend.png)
