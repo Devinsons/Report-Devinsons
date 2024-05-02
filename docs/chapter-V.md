@@ -1105,7 +1105,7 @@ La meta de este sprint fue el desarrollo del Web Applitacion. Para llevar a cabo
 ![Commits-Front-End](/assets/img/chapter-V/commits-frontend.png)
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el Web Application.
 
-![Contribuitors-Front-End](/assets/img/chapter-V/contribuitors-frontend.png)
+![Contribuitors-Front-End](/assets/img/chapter-V/contributors-frontend.png)
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el Web Application.
 
 ![Traffic-Front-End](/assets/img/chapter-V/traffic-frontend.png)
