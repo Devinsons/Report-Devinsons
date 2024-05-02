@@ -987,6 +987,69 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
+<table>
+	<tbody>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit Message</td>
+			<td>Commit Message Body</td>
+			<td>Commit On (date)</td>
+		</tr>
+		<tr>
+			<td rowspan="7">https://github.com/Devinsons/FastBite-Front-End</td>
+			<td>main</td>
+			<td>chore:first commit</td>
+			<td>908c89872ff8535b5d701e2b216b4ef454744910</td>
+			<td>---</td>
+			<td>29/04/2024</td>
+		</tr>
+		<tr>
+			<td>develop</td>
+			<td>Merge branch 'feature/planning' of https://github.com/Devinsons/FastBite-Front-End into develop</td>
+			<td>0a94f75257c1d2e7fc5de4a7dd9dc9f25aa08ab6</td>
+			<td>---</td>
+			<td>02/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/execution</td>
+			<td>feat: added logic to create an order object from the menu item button</td>
+			<td>b3dfbf81562fb66ef4c328b37de5284a9012f561</td>
+			<td>---</td>
+			<td>01/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/planning</td>
+			<td>feat: completed service planning logic</td>
+			<td>567066ac5137bc90b7b147c4aa4d890038ec5183</td>
+			<td>---</td>
+			<td>01/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/profile</td>
+			<td>feat: completed logic for profile data update</td>
+			<td>0f2ad1de7af3c87132986fd2443c51ed48692828</td>
+			<td>---</td>
+			<td>02/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/public</td>
+			<td>feat : added public componente</td>
+			<td>a6b514d93f0af48ad35dc62a8dfaa7514b9b23ed</td>
+			<td>---</td>
+			<td>01/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/subscription</td>
+			<td>feat: completed service planning logic</td>
+			<td>567066ac5137bc90b7b147c4aa4d890038ec5183</td>
+			<td>---</td>
+			<td>01/05/2024</td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 Durante este sprint el equipo se centrará en el desarrollo front-end con el framework angular, por lo que no se requirio hacer testing.
 
