@@ -798,3 +798,60 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 Estos gráficos nos presenta información de las clonaciones que se hicieron al repositorio y tambien las visitas únicas que tuvo el repositorio.
 
 ![Network-landing](/assets/img/chapter-V/Network-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planing 2.
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Después de finalizar el Sprint 2, hemos logrado implementar las secciones de nuestra Web Application que fijamos como meta para el Sprint 2, logrando así un flujo comprensible y que brinda una buena comprensión del funcionamiento y las características de la Web Application. Habiendo dicho lo anterior, hemos desarrollado las principales vistas de nuestra web, añadiendo métodos de navegación como botones ubicados permanentemente en la parte izquierda de la aplicación, facilitando la navegación y volviendola más intuitiva y. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para desplegar la Web Application optamos por utilizar firebase ya que ofrece un servicio de hosting muy versátil y sin muchas complicaciones para poder desplegar una app. Para lograr el despliegue de la app se siguieron los siguientes pasos:
+
+Instalar las herramientas de firebase en el app con el siguiente comando en la terminal:
+```
+npm install -g firebase-tools
+```
+
+Luego se ingresó a un cuenta de firebase (con una cuenta de google) y creó un nuevo proyecto.
+![Firebase-New-Project](/assets/img/chapter-V/firebase-new-project.png)
+
+Después enlazamos la cuenta firebase con el siguiente comando:
+```
+firebase login
+```
+Esto abrió una pestaña donde seleccionamos nuestra cuenta de google que usamos para crear el proyecto en firebase.
+Para continuar, debemos generar el build de nuestro proyecto con el comando: 
+```
+ng build
+```
+Lo que generará una carpeta "dist", y el siguiente paso fue ejecutar el comando: 
+```
+firebase init
+```
+
+Una vez ejecutado el último comando, se nos generaró un lista en la cual seleccionamos la función **hosting** 
+![Firebase-Functions-list](/assets/img/chapter-V/firebase-functions-list.png)
+
+Luego nos preguntará si queremos crear un nuevo proyecto, o usar un proyecto existente de firebase. Para esta opción le damos **existing project** y seleccionamos el proyecto que hemos creado anteriormente. Después nos aparecerán opciones que según sea el caso, se seleccionó entre **y/n**.
+
+Por último, finalizamos ejecutando el siguiente comando y tendremos nuestra aplicación web desplegada.
+```
+firebase deploy
+```
+
+*Enlace de la Web Application:*
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
