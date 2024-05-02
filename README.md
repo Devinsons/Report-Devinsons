@@ -15,7 +15,6 @@
 
 #### Integrantes
 * Ruben Velasquez Chambi - U202117342
-* Fabrizio Alexander Cutiri Agüero - U201914181
 * Omar Christian Berrocal Ramirez -  U20201B529
 * Francisco Hurtado Palomino - U202117498
 
