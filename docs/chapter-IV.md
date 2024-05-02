@@ -313,8 +313,8 @@ En esta sección se presentarán los wireframes diseñados para nuestra aplicaci
 
 **Interfaz de registro e ingreso de usuarios**
 
-![login-fastbite](/assets/img/chapter-IV/web-mockups/login-fastbite-web.png)
-![register-fastbite](/assets/img/chapter-IV/web-mockups/register-fastbite-web.png)
+![login-fastbite](/assets/img/chapter-IV/web-mockups/Login-Fastbite-web.png)
+![register-fastbite](/assets/img/chapter-IV/web-mockups/Register-Fastbite-web.png)
 
 **Interfaces para recuperar contraseña**
 
