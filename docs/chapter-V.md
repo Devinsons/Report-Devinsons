@@ -798,3 +798,24 @@ En esta imagen se refleja la el nivel de modificaciones realizadas por los commi
 Estos gráficos nos presenta información de las clonaciones que se hicieron al repositorio y tambien las visitas únicas que tuvo el repositorio.
 
 ![Network-landing](/assets/img/chapter-V/Network-landing.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planing 2.
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Después de finalizar el Sprint 2, hemos logrado implementar las secciones de nuestra Web Application que fijamos como meta para el Sprint 2, logrando así un flujo comprensible y que brinda una buena comprensión del funcionamiento y las características de la Web Application. Habiendo dicho lo anterior, hemos desarrollado las principales vistas de nuestra web, añadiendo métodos de navegación como botones ubicados permanentemente en la parte izquierda de la aplicación, facilitando la navegación y volviendola más intuitiva y. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
