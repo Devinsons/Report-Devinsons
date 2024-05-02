@@ -423,8 +423,8 @@ En esta sección se presentarán los wireframes diseñados para nuestra aplicaci
 
 ## 4.5. Web Applications Prototyping.
 
-Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EVEvKhHNRvFMkYYfcum-LmYB32QBR35DKX4RtnD9Nmx9Dw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1lEg3f
-Link del Prototipo: https://www.figma.com/proto/muGyKMW5uIO9tiJVWyjcwX/FastBite---Open-Source-Web-Application-MockUps-(Copy)?type=design&node-id=8-435&t=23pK08wrhqiIg8qc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
+- Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EVEvKhHNRvFMkYYfcum-LmYB32QBR35DKX4RtnD9Nmx9Dw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1lEg3f
+- Link del Prototipo: https://www.figma.com/proto/muGyKMW5uIO9tiJVWyjcwX/FastBite---Open-Source-Web-Application-MockUps-(Copy)?type=design&node-id=8-435&t=23pK08wrhqiIg8qc-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design 
 
 ## 4.6. Domain-Driven Software Architecture.
 
