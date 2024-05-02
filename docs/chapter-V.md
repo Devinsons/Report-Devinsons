@@ -803,11 +803,192 @@ En la imagen se puede apreciar las ramas feature creadas para el repositorio y l
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planing 2.
 
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/04/29</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Ruben Velasquez Chambi</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Francisco Hurtado Palomino</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Se implemento la primera version de la lading page
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                El equipo estuvo de acuerdo con empezar con el desarrollo del lado front-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                <li>Termninar el reporte</li>
+                <li>Terminar los componentes en angular, logica y diseño, siguiendo el diseño de los mockups</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                20
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                20
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.2.2. Sprint Backlog 2.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> HU005 Acceder al catalogo del Menu</td>
+    <td align="center"> TA01 </td>
+     <td align="center">Lista de cards de los restaurantes afiliados</td>
+    <td align="center">Debe de consumir la api-fake para mostrar esa informacion</td>
+    <td align="center"> 2</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> lista de cards de  menus de los restaurantes afiliados</td>
+    <td align="center"> Debe de consumir la api-fake para mostrar esa informacion por cada restaurante seleccionado</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU007 Realizar pedido</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Generar orden nueva</td>
+    <td align="center"> Al seleccionar un menu, debe registrarse un orden nueva</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Francisco Hurtado Palomino</td>
+    <td align="center">In process</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> HU006 Personalizar</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Personalizar cantidad</td>
+    <td align="center"> Debe crear order detail, donde se agregara la cantidad del producto deseado</td>
+    <td align="center"> 3</td>
+    <td align="center">  Fabrizio Alexander Cutiri Agüero</td>
+    <td align="center">In process</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center">Crecion de orden</td>
+    <td align="center">Debe de crear una orden con los datos como cantidad y direccion para ser atendido</td>
+    <td align="center"> 2</td>
+    <td align="center"> Fabrizio Alexander Cutiri Agüero</td>
+    <td align="center"> In process</td>
+  </tr>
+ 
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU009 Registro de pedidos</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Historial de pedidos por usuario</td>
+    <td align="center"> Debe de mostrar las ordenes que realizo con las fechas correscpondientes</td>
+    <td align="center"> 2</td>
+    <td align="center"> Francisco Hurtado Palomino</td>
+    <td align="center"> In process</td>
+  </tr>
+
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU004 Actualizacion de perfil
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Actualizar datos</td>
+    <td align="center"> Los usarios deben ser capaces de actualizar los datos en cualquier momento</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi </td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU024 Registro de tarjeta
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Registrar tarjeta de credito</td>
+    <td align="center">Debe de poder registrar su tarjeta para poder acceder a todas las funciones de la plataforma</td>
+    <td align="center"> 3</td>
+    <td align="center"> Francisco Hurtado Palomino</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+Durante este sprint el equipo se centrará en el desarrollo front-end con el framework angular, por lo que no se requirio hacer testing.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
