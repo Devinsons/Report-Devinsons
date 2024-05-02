@@ -1099,3 +1099,17 @@ firebase deploy
 *Enlace de la Web Application:*
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+La meta de este sprint fue el desarrollo del Web Applitacion. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como trabajo ramificado en repositorios de GitHub, Web storm, Typescript, html y CSS. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Devinsons.
+
+![Commits-Front-End](/assets/img/chapter-V/commits-frontend.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el Web Application.
+
+![Contribuitors-Front-End](/assets/img/chapter-V/contribuitors-frontend.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el Web Application.
+
+![Traffic-Front-End](/assets/img/chapter-V/traffic-frontend.png)
+Estos gráficos nos presenta información de las clonaciones que se hicieron al repositorio y tambien las visitas únicas que tuvo el repositorio.
+
+![Network-Front-End](/assets/img/chapter-V/network-frontend.png)
+En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
