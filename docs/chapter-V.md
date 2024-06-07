@@ -1127,3 +1127,403 @@ Estos gráficos nos presenta información de las clonaciones que se hicieron al 
 
 ![Network-Front-End](/assets/img/chapter-V/network-frontend.png)
 En la imagen se puede apreciar las ramas feature creadas para el repositorio y las fechas en que se unieron.
+
+
+## 5.2.3. Sprint 3
+## 5.2.3.1.Sprint Planning 3.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/05/23</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Ruben Velasquez Chambi</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Francisco Hurtado Palomino</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Se implemento la primera version de el front-end de la aplicacion
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                El equipo estuvo de acuerdo en hacer arreglos en el front-end y comenzar con el back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                <li>Termninar el reporte</li>
+                <li>Terminar los componentes en angular, logica y diseño, siguiendo el diseño de los mockups</li>
+                <li>terminar 2 bounded context</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                8
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                8
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## 5.2.3.2.Sprint Backlog 3.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU001 Registrar Usuario</td>
+    <td align="center"> TA01 </td>
+     <td align="center">formulario para registrar usuario</td>
+    <td align="center">Debe de crear un formulario y la logica para usar el metodo POST</td>
+    <td align="center"> 1</td>
+    <td align="center">Francisco Hurtado Palomino</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU002 Inicio Sesion</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Inicio sesion</td>
+    <td align="center"> Debe de implementar la logica para el inicio sesion</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Francisco Hurtado Palomino</td>
+    <td align="center">In process</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU006 Personalizar</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Personalizar cantidad</td>
+    <td align="center"> Debe crear order detail, donde se agregara la cantidad del producto deseado</td>
+    <td align="center"> 3</td>
+    <td align="center">  Cristian omar</td>
+    <td align="center">In process</td>
+  </tr>
+
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU009 Registro de pedidos</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Historial de pedidos por usuario</td>
+    <td align="center"> Debe de mostrar las ordenes que realizo con las fechas correscpondientes</td>
+    <td align="center"> 2</td>
+    <td align="center"> Cristian Omar</td>
+    <td align="center"> In process</td>
+  </tr>
+
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU004 Actualizacion de perfil
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Actualizar datos</td>
+    <td align="center"> back-end para la actualizacion y la persistencia de datos de perfil </td>
+    <td align="center"> 2</td>
+    <td align="center"> Ruben Velasquez Chambi </td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU015 Acceder a metricas
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">front-end de metricas</td>
+    <td align="center">seccion de dashboard para los restaurantes</td>
+    <td align="center"> 4</td>
+    <td align="center"> Cristhian omar</td>
+    <td align="center"> In process</td>
+  </tr>
+  <!------------------------------------------->
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU016 Analizar platos
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">front-end de metricas de menus</td>
+    <td align="center">seccion de dashboard para los platos mas vendidos</td>
+    <td align="center"> 1</td>
+    <td align="center"> Cristhian omar</td>
+    <td align="center"> In process</td>
+  </tr>
+
+  <!-------------------------------------------->
+<tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU031 Nuevo restaurante
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para los restaurantes</td>
+    <td align="center">rest api para el manejo de restaurantes</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+    
+    <!---------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU032 Nuevo Empresa
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para las empresas </td>
+    <td align="center">rest api para el manejo de empresas</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <!----------------------------------->
+
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU033 Buscar empresa
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para buscar empresas</td>
+    <td align="center">la busqueda de la empresa debe ser por su identificador</td>
+    <td align="center"> 1</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <!------------------->
+
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU034 Buscar restaurant
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para buscar restaurant</td>
+    <td align="center">la busqueda de la restaurant debe ser por su identificador</td>
+    <td align="center"> 1</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+</table> 
+
+## 5.2.3.3.Development Evidence for Sprint Review.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit Message</td>
+			<td>Commit Message Body</td>
+			<td>Commit On (date)</td>
+		</tr>
+		<tr>
+			<td rowspan="8">https://github.com/Devinsons/fast-bite-platform</td>
+			<td>main</td>
+			<td>chore: initial commit</td>
+			<td>908c89872ff8535b5d701e2b216b4ef454744910</td>
+			<td>---</td>
+			<td>02/06/2024</td>
+		</tr>
+		<tr>
+			<td>develop</td>
+			<td>feat(shared): complete shared logic with base configurations and dependencies</td>
+			<td>0a94f75257c1d2e7fc5de4a7dd9dc9f25aa08ab6</td>
+			<td>---</td>
+			<td>02/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/profiles</td>
+			<td>feat(profiles): add domain and infrastructure layers to bounded context</td>
+			<td>b3dfbf81562fb66ef4c328b37de5284a9012f561</td>
+			<td>---</td>
+			<td>03/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/profiles</td>
+			<td>feat(profiles): complete bounded context logic without adding ACL layer</td>
+			<td>567066ac5137bc90b7b147c4aa4d890038ec5183</td>
+			<td>---</td>
+			<td>03/06/2024</td>
+		</tr>
+		<tr>
+			<td>feature/profile</td>
+			<td>feat(profile): add PUT method in bounded context</td>
+			<td>0f2ad1de7af3c87132986fd2443c51ed48692828</td>
+			<td>---</td>
+			<td>03/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/planning</td>
+			<td>feat(planning): added domain</td>
+			<td>a6b514d93f0af48ad35dc62a8dfaa7514b9b23ed</td>
+			<td>---</td>
+			<td>05/05/2024</td>
+		</tr>
+		<tr>
+			<td>feature/planning</td>
+			<td> feat: add complete Restaurant entity in bounded context</td>
+			<td>567066ac5137bc90b7b147c4aa4d890038ec5183</td>
+			<td>---</td>
+			<td>06/05/2024</td>
+		</tr>
+    	<tr>
+			<td>feature/planning</td>
+			<td> feat: add complete Company entity in bounded context</td>
+			<td>458066ac5137bc90b7b147c4aa4d890038ec5183</td>
+			<td>---</td>
+			<td>06/05/2024</td>
+		</tr>
+	</tbody>
+</table>
+
+## 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+## 5.2.3.5.Execution Evidence for Sprint Review.
+En esta etapa del proyecto, hemos realizado avances significativos tanto en el backend como en el frontend, siguiendo las mejores prácticas de desarrollo y asegurando una arquitectura robusta y escalable.
+
+#### Backend
+En el backend, implementamos el Diseño Guiado por el Dominio (DDD) para los bounded contexts de "Profiles" y "Planning". Esta metodología nos ha permitido estructurar el código de manera que refleje fielmente las necesidades del negocio, facilitando el mantenimiento y la evolución del sistema.
+
+Se desarrollo 4 endpoint para el bounded contexr profiles
+![Profile](../assets/img/chapter-V/swagger-profile.png)
+
+
+Se desarrollo los endpoint de las entidades de restaurant y company de los bounded context planning
+![Planning](../assets/img/chapter-V/swagger-planning.png)
+
+#### Frontend
+En el frontend, hemos añadido componentes esenciales para la interacción del usuario con el sistema, mejorando significativamente la experiencia del usuario.
+
+## 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+## 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+En este Sprint 3, hemos llevado a cabo el despliegue de nuestras aplicaciones y servicios, asegurando que estén accesibles y funcionando correctamente en entornos de producción. Utilizamos dos servicios distintos para optimizar nuestro flujo de trabajo: Railway para el backend y Clever Cloud para la base de datos MySQL.
+
+#####  Despliegue del Backend
+El backend, desarrollado con Spring Boot, se ha desplegado utilizando el servicio de Railway. Este servicio nos ha proporcionado una plataforma flexible y eficiente para implementar nuestra API de manera rápida y segura. La captura de la consola de Railway, que se muestra a continuación, evidencia el despliegue exitoso del backend, donde se puede observar el proceso de implementación y la confirmación de que la aplicación está en funcionamiento.
+![backend](../assets/img/chapter-V/deploy-api-fastbite.png)
+
+##### Swagger UI
+Una vez desplegado el backend, utilizamos Swagger para documentar y probar nuestras API endpoints. La interfaz de Swagger, que también ha sido desplegada, permite a los desarrolladores y testers interactuar con la API de manera intuitiva y detallada. A continuación, una imagen de Swagger UI en funcionamiento muestra la lista de endpoints disponibles 
+
+![swagger](../assets/img/chapter-V/fastbite-deploy.png)
+
+##### Despliegue de la Base de Datos
+Para el despliegue de nuestra base de datos MySQL, elegimos Clever Cloud. Este servicio nos ha proporcionado una solución robusta y escalable para gestionar nuestras bases de datos, asegurando alta disponibilidad y rendimiento. La siguiente captura muestra la interfaz de Clever Cloud, donde se pueden visualizar las tablas de la base de datos, confirmando que el despliegue ha sido exitoso
+
+![db](../assets/img/chapter-V/deploy-bd-fastbite.png)
+
+
+##### Link de deploy del backend:
+ https://fast-bite-platform-production.up.railway.app/swagger-ui/index.html#/
+
+## 5.2.3.8.Team Collaboration Insights during Sprint.
+#### Colaboración en el Backend
+La implementación del backend, siguiendo el patrón de Diseño Guiado por el Dominio (DDD) para los bounded contexts de "Profiles" y "Planning", fue liderada por uno de los miembros del equipo. Este integrante mostró un alto nivel de compromiso y habilidad técnica, asegurando que cada parte del backend se desarrollara de manera eficiente y alineada con los objetivos del proyecto.
+
+Las gráficas de actividad en GitHub reflejan claramente la colaboración y el esfuerzo dedicado al desarrollo del backend. Las contribuciones incluyeron la definición de entidades, servicios y repositorios, así como la integración de las funcionalidades clave necesarias para los contextos de "Profiles" y "Planning".
+
+
+Acontinuacion se mostrara la contribucion del repositorio del backend de la organizacion.
+![grafica1](../assets/img/chapter-V/sprint%203%20-%20grafica%201.png)
+
+
+Grafica de commits hechos a lo largo del tiempo.
+![grafica2](../assets/img/chapter-V/sprint%203%20-%20grafica%202.png)
+
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+##### Saludo y presentación
+Comenzamos con una introducción breve de los entrevistados
+y determinando a que segemento objetivo pertenecen
+
+¿Cómo se llama?
+¿Cuántos años tiene?
+¿En qué distrito vive?
+¿Trabajo en un empresa o restaurante ?
+¿Que rol desempeño en aquel trabajo?
+
+##### Preguntas
+Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
+
+1. ¿Qué piensas de la interfaz de usuario de la aplicación web? ¿Es fácil de navegar?
+2. ¿Encuentras que las funciones de la aplicación web son intuitivas y fáciles de usar?
+3. ¿Hay alguna función que crees que debería estar en la aplicación web que actualmente no está?
+4. ¿Cómo calificarías la experiencia general de uso de la aplicación web?
+5. ¿Qué te gusta más y qué te gusta menos de la aplicación web?
+6. ¿Te sentirías cómodo usando regularmente nuestra aplicación web?
+7. ¿Cómo crees que nuestra aplicación web se comparan con otras similares que hayas utilizado?
+8. ¿Hay algo que te confunda o te resulte difícil de entender en la aplicación web?
+9. ¿Considerarías recomendarnos a tus amigos o familiares?
+10. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
+![about-the-product](../assets/img/chapter-V/captura%20de%20AProduct.png)
+
+Link del video en youtube: https://youtu.be/LBU-GhM-__o 
