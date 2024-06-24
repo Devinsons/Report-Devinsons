@@ -27,7 +27,7 @@ Fecha: **marzo de 2024**.
 
 | Version      | Fecha        | Autor        | Descripcion de modificacion |
 |--------------|--------------|--------------|-----------------------------|
-|   |  |  |                  |
+|  v0.0.3      | 06/06/2024   | Ruben Velasquez Chambi | Se agrego el reporte relacionado al sprint 3  y el despliegue del backend                |
 
 
 ### Project Report Collaboration Insights
