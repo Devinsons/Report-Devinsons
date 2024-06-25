@@ -39,4 +39,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117342_upc_edu_pe/EdmAY1db
  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117342_upc_edu_pe/EZoDkT8ncMFEs0J6fKqS54gBIfa1eyMlUCGF1g1kWKpyUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=djmH9j 
 
  **Deploy de backe-end**
- https://fast-bite-platform-production.up.railway.app/swagger-ui/index.html#/ 
+ https://fastbite-22e4a9e2fd32.herokuapp.com/swagger-ui/index.html#/
+
+ **Deploy Front-end**
+ https://6679f9905981da470f2d0836--stirring-zuccutto-ce17de.netlify.app/login 
