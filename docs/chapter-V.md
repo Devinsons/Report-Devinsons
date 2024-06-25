@@ -1492,6 +1492,286 @@ Grafica de commits hechos a lo largo del tiempo.
 ![grafica2](../assets/img/chapter-V/sprint%203%20-%20grafica%202.png)
 
 
+
+### 5.2.4. Sprint 3
+#### 5.2.4.1.Sprint Planning 3.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/05/23</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Ruben Velasquez Chambi</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Francisco Hurtado Palomino</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                Se implemento la primera version de el front-end de la aplicacion
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                El equipo estuvo de acuerdo en hacer arreglos en el front-end y comenzar con el back-end
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                <li>Termninar el reporte</li>
+                <li>Terminar los componentes en angular, logica y diseño, siguiendo el diseño de los mockups</li>
+                <li>terminar 2 bounded context</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                15
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.4.2.Sprint Backlog 4.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 4</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU001 Registrar Usuario</td>
+    <td align="center"> TA01 </td>
+     <td align="center">formulario para registrar usuario</td>
+    <td align="center">Debe de implementar el front-end con el backe-end</td>
+    <td align="center"> 1</td>
+    <td align="center">Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU002 Inicio Sesion</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Inicio sesion</td>
+    <td align="center"> Debe de implementar el front-end con el backe-end</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU006 Personalizar</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Personalizar cantidad</td>
+    <td align="center"> Debe crear order detail, donde se agregara la cantidad del producto deseado usando el back-end</td>
+    <td align="center"> 3</td>
+    <td align="center">  Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU009 Registro de pedidos</td>
+      <td align="center"> TA02 </td>
+    <td align="center"> Historial de pedidos por usuario</td>
+    <td align="center"> Debe de implementar el back-end</td>
+    <td align="center"> 2</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU004 Actualizacion de perfil
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Actualizar datos</td>
+    <td align="center"> back-end para la actualizacion y la persistencia de datos de perfil </td>
+    <td align="center"> 2</td>
+    <td align="center"> Ruben Velasquez Chambi </td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+  
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU016 Analizar platos
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">front-end de metricas de menus</td>
+    <td align="center">seccion de dashboard para los platos mas vendidos</td>
+    <td align="center"> 4</td>
+    <td align="center"> Ruben Velasquez Chambi </td>
+    <td align="center"> In process</td>
+  </tr>
+
+  <!-------------------------------------------->
+<tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU031 Nuevo restaurante
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para los restaurantes</td>
+    <td align="center">rest api para el manejo de restaurantes</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+    
+    <!---------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU032 Nuevo Empresa
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para las empresas </td>
+    <td align="center">rest api para el manejo de empresas</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <!----------------------------------->
+
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU033 Buscar empresa
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para buscar empresas</td>
+    <td align="center">la busqueda de la empresa debe ser por su identificador</td>
+    <td align="center"> 1</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <!------------------->
+
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU034 Buscar restaurant
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para buscar restaurant</td>
+    <td align="center">la busqueda de la restaurant debe ser por su identificador</td>
+    <td align="center"> 2</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <!--------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU035 Agregar o obtener menu
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para agregar productos</td>
+    <td align="center">Debe de poder agregar un producto en la base de datos</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+    <!--------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU036 Actualizar o eliminar menu
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para agregar productos a un restaurant</td>
+    <td align="center">Debe de poder agregar un producto segun el id del restaurante </td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+   <!--------------------->
+ <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU037 Obtener Ordenes
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center">Back-end para administrar las peticiones de ordenes</td>
+    <td align="center">Debe de poder generar ordenes y modificar el stado </td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
+
+
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+
+
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
