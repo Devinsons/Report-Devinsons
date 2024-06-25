@@ -1493,8 +1493,8 @@ Grafica de commits hechos a lo largo del tiempo.
 
 
 
-### 5.2.4. Sprint 3
-#### 5.2.4.1.Sprint Planning 3.
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
 <table>
     <thead>
         <tr>
@@ -1754,21 +1754,131 @@ Grafica de commits hechos a lo largo del tiempo.
 
 </table>
 
-
 #### 5.2.4.3.Development Evidence for Sprint Review.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Repository</td>
+			<td>Branch</td>
+			<td>Commit ID</td>
+			<td>Commit Message</td>
+			<td>Commit Message Body</td>
+			<td>Commit On (date)</td>
+		</tr>
+		<tr>
+			<td rowspan="8">https://github.com/Devinsons/fastbite-platform.git</td>
+			<td>main</td>
+			<td>chore: initial commit</td>
+			<td>908c89872ff8535b5d701e2b216b4ef454744910</td>
+			<td>---</td>
+			<td>22/06/2024</td>
+		</tr>
+		<tr>
+			<td>main</td>
+			<td>feat(planning): add relationship between IAM, Profile, and Restaurant entity in bounded context</td>
+			<td>0a94f75257c1d2e7fc5de4a7dd9dc9f25aa08ab6</td>
+			<td>---</td>
+			<td>22/06/2024</td>
+		</tr>
+		<tr>
+			<td>main</td>
+			<td>feat(planning): add Product method Post ang Get by productredoctId</td>
+			<td>b3dfbf81562fb66ef4c328b37de5284a9012f561</td>
+			<td>---</td>
+			<td>22/06/2024</td>
+		</tr>
+		<tr>
+			<td>main</td>
+			<td>feat(planning): The order logic and the methods of its rest were added</td>
+			<td>567066ac5137bc90b7b147c4aa4d890038ec5183</td>
+			<td>---</td>
+			<td>22/06/2024</td>
+		</tr>
+		<tr>
+			<td>main</td>
+			<td>feat(profiles): Added Put method profile</td>
+			<td>0f2ad1de7af3c87132986fd2443c51ed48692828</td>
+			<td>---</td>
+			<td>23/06/2024</td>
+		</tr>
+		<tr>
+			<td>main</td>
+			<td>feat: REST COMPLETE ORDER</td>
+			<td>a6b514d93f0af48ad35dc62a8dfaa7514b9b23ed</td>
+			<td>---</td>
+			<td>24/06/2024</td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 
+
 #### 5.2.4.5.Execution Evidence for Sprint Review.
+Durante el ultimo sprint 4, las tareas se centraron en la implementacion del back-end con el front-end. Donde se desarrollaron las funcionalidades basicas de todas las aplicaciones como lo es la autenticacion, junto con las funcionalidades cors de nuestro negocio.
+
+A continuacion se mostrara capturas de las secciones implementadas:
+
+formulario de registro donde podras registrarte segun el tipo de usuario (Restaurant o Company)
+![register](../assets/img/chapter-V/register-fastbite.png)
+Pantalla de inicio:
+![home](../assets/img/chapter-V/Home-fatbite.png)
+Inicio Sesion: puedes iniciar secion con username y password
+![login](../assets/img/chapter-V/login-fastbite.png)
+Lista de restaurantes.
+![restaurant](../assets/img/chapter-V/restaurnt-fastbite.png)
+Lista de menu segun el restaurante elejido:
+![menu](../assets/img/chapter-V/menu-order-fastbite.png)
+Lista de ordenes hechas por compañias, donde puedes cambiar el estado de la orden:
+![order](../assets/img/chapter-V/order-fastbite.png)
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+A continuacion se mostrar los endpoint que se desarrollaron para el desarrollo de la aplicacion.
+![api](../assets/img/chapter-V/api-restaurant-authentication.png)
+![api](../assets/img/chapter-V/api-company-product-orders.png)
+![api](../assets/img/chapter-V/api-profile-productbyproduct-roles-users.png)
+
+Link del swager: https://fastbite-22e4a9e2fd32.herokuapp.com/swagger-ui/index.html#/ 
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
+En esta seccion explicare las diferentes herramientas o plataformas que use para el deploy del front-end,back-end  y base de datos.
+
+**Deploy Front-end:**
+El despliegue se hizo en "netlify" que te permite enlazarlo a tu repositorio Github, esto ya se habia usado previamente asi que solo se volvio a ejecutar la consola.
+![netlify](../assets/img/chapter-V/netlify.png)
+**Deploy Back-end:**
+EL deploy se hizo en "heroku" que permite enlazarlo directamente a tu repositorio Github.
+![heroku](../assets/img/chapter-V/heroku.png)
+**Deploy De la base de datos**
+Para este deploy se uso los servicios de  AWS donde se creo una base de datos MySql.
+
+Primero se creo una instancia de RDS de nysql:
+![mysql](../assets/img/chapter-V/instancia-RDS.png)
+
+Ahi obtenemos el punto de enlace, que servira para poder conectarnos desde la aplicacion.Desbes de tener en cuenta que el accesibilidad debe de ser publica
+![mysql](../assets/img/chapter-V/config-aws.png)
+
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+En esta seccion se mostrara el aporte que hicieron cada integrante al proyecto, a traves de graficas de los repositorios Github:
 
+**Repositorio del back-end:**
 
+El siguiente grafico muesta la contribucion del sprint 4 segun los integrantes del equipo.
+
+![contribucion](../assets/img/chapter-V/sprint4-grafica%201.png)
+
+Se muestra el flujo de como se desarrollo la aplicacion y como se emplean las ramas, en este caso se trabajo solo en la rama main.
+![rama](../assets/img/chapter-V/sprint4-grafica%202.png)
+
+**Respositorio de Front-end:**
+En esta imagen se detalla la contribucion que tuvieron los miembros del equipo desde la creacion del repositorio
+![contribucion](../assets/img/chapter-V/sprint4-grafica%203.png)
+
+Grafica del aporte durante el sprint 4.
+![cont](../assets/img/chapter-V/sprint4-grafica%204.png)
 
 
 ## 5.3. Validation Interviews.
