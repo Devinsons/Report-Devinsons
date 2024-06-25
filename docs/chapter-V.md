@@ -1755,7 +1755,6 @@ Grafica de commits hechos a lo largo del tiempo.
 </table>
 
 
-
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
