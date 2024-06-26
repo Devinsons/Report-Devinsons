@@ -1508,7 +1508,7 @@ Grafica de commits hechos a lo largo del tiempo.
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/05/23</td>
+            <td>2024/06/18</td>
         </tr>
         <tr>
             <td>Time</td>
@@ -1525,20 +1525,19 @@ Grafica de commits hechos a lo largo del tiempo.
         <tr>
             <td>Atendees (to planning meeting)</td>
             <td>
-                <li>Omar Christian Berrocal Ramirez</li>
                 <li>Francisco Hurtado Palomino</li>
             </td>
         </tr>
         <tr>
             <td>Sprint 4 Review Summary</td>
             <td>
-                Se implemento la primera version de el front-end de la aplicacion
+                Se implemento el back-end en su mayoria y se finalizo gran parte del front-end
             </td>
         </tr>
         <tr>
-            <td>Sprint 3 Retrospective Summary</td>
+            <td>Sprint 4 Retrospective Summary</td>
             <td>
-                El equipo estuvo de acuerdo en hacer arreglos en el front-end y comenzar con el back-end
+                El equipo estuvo de acuerdo en hacer arreglos en el back-end y terminar con el front-end
             </td>
         </tr>
         <tr>
@@ -1549,11 +1548,11 @@ Grafica de commits hechos a lo largo del tiempo.
             <td>
                 <li>Termninar el reporte</li>
                 <li>Terminar los componentes en angular, logica y diseño, siguiendo el diseño de los mockups</li>
-                <li>terminar 2 bounded context</li>
+                <li>Terminar el back-end</li>
             </td>
         </tr>
         <tr>
-            <td>Sprint 3 Velocity</td>
+            <td>Sprint 4 Velocity</td>
             <td>
                 15
             </td>
@@ -1909,7 +1908,20 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 10. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
 ### 5.3.2. Registro de Entrevistas.
 
+| Nombre          | Edad | Distrito | Trabajo     | Rol            |
+|-----------------|------|----------|-------------|----------------|
+| Ximena Canchaya | 24   | Surco    | Restaurante | Jefa de cocina |
+![img.png](../assets/img/chapter-V/Entrevista-final.png)
+Link de la entrevista:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EQ-NAa7ikxlPt8WLQqF54OsBNhtroY83cMp7RX5v99B00Q?e=n9R6PD
+
+La entrevistada nos comenta que ella trabaja en un restaurante en San Borja, ella explica que la aplicacion web le parece basta sencilla y facil de usar. Ademas nos comenta que le gustaria que la aplicacion tenga una seccion donde pueda ver las ordenes que se han hecho en el dia, para poder tener un control de las ordenes que se han hecho. Finalmente nos dice que la aplicacion cumple con sus expectativas y que no habia visto nunca una plataforma del estilo presentado.
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
+Link del documento:
+https://docs.google.com/document/d/1p5DJ-OIoPKKgW6zDk8GUYax95M81jhfqLD_jmg9zuE4/edit?usp=sharing
 
 ## 5.4. Video About-the-Product.
 
