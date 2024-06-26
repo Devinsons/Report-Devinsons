@@ -1911,7 +1911,12 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 | Nombre          | Edad | Distrito | Trabajo     | Rol            |
 |-----------------|------|----------|-------------|----------------|
 | Ximena Canchaya | 24   | Surco    | Restaurante | Jefa de cocina |
+
+
+
 ![img.png](../assets/img/chapter-V/Entrevista-final.png)
+
+
 Link de la entrevista:
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117498_upc_edu_pe/EQ-NAa7ikxlPt8WLQqF54OsBNhtroY83cMp7RX5v99B00Q?e=n9R6PD
